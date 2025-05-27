@@ -1,0 +1,1001 @@
+product_id,product_name,category,shelf_life_days
+1,Beras Biru muda,Pangan,151
+2,Jagung Coklat,Sayuran,114
+3,Cabai Hitam,Buah,177
+4,Tomat Hijau tua,Sayuran,112
+5,Kentang Merah,Pangan,99
+6,Beras Hijau muda,Buah,36
+7,Jagung Hitam,Buah,50
+8,Cabai Hijau tua,Pangan,25
+9,Tomat Biru dongker,Pangan,151
+10,Kentang Merah marun,Sayuran,136
+11,Beras Nila,Pangan,180
+12,Jagung Biru laut,Pangan,114
+13,Cabai Hijau muda,Buah,24
+14,Tomat Hitam,Sayuran,127
+15,Kentang Abu-abu,Pangan,149
+16,Beras Merah bata,Sayuran,124
+17,Jagung Merah marun,Buah,175
+18,Cabai Hijau,Sayuran,151
+19,Tomat Hijau tua,Pangan,177
+20,Kentang Abu-abu,Sayuran,98
+21,Beras Koral,Pangan,100
+22,Jagung Ungu,Buah,118
+23,Cabai Merah,Buah,91
+24,Tomat Biru dongker,Sayuran,95
+25,Kentang Abu-abu,Pangan,157
+26,Beras Biru dongker,Sayuran,60
+27,Jagung Hijau muda,Pangan,164
+28,Cabai Nila,Sayuran,10
+29,Tomat Biru dongker,Buah,76
+30,Kentang Merah bata,Sayuran,56
+31,Beras Coklat tua,Pangan,176
+32,Jagung Putih,Sayuran,149
+33,Cabai Hitam,Pangan,41
+34,Tomat Zaitun,Buah,166
+35,Kentang Merah bata,Sayuran,24
+36,Beras Kuning,Buah,160
+37,Jagung Putih,Pangan,174
+38,Cabai Hijau,Pangan,93
+39,Tomat Magenta,Sayuran,49
+40,Kentang Koral,Pangan,60
+41,Beras Merah marun,Sayuran,7
+42,Jagung Putih,Sayuran,13
+43,Cabai Biru,Sayuran,27
+44,Tomat Biru muda,Sayuran,8
+45,Kentang Hijau tua,Sayuran,69
+46,Beras Biru laut,Sayuran,14
+47,Jagung Perak,Pangan,139
+48,Cabai Merah jambu,Sayuran,168
+49,Tomat Jingga,Buah,103
+50,Kentang Hijau tua,Buah,170
+51,Beras Hijau muda,Buah,77
+52,Jagung Merah bata,Buah,55
+53,Cabai Koral,Buah,70
+54,Tomat Magenta,Pangan,118
+55,Kentang Hijau muda,Buah,158
+56,Beras Emas,Sayuran,170
+57,Jagung Putih,Pangan,89
+58,Cabai Emas,Sayuran,124
+59,Tomat Hijau tua,Sayuran,16
+60,Kentang Perak,Buah,135
+61,Beras Abu-abu,Pangan,92
+62,Jagung Merah jambu,Pangan,169
+63,Cabai Perak,Buah,110
+64,Tomat Hijau muda,Pangan,39
+65,Kentang Magenta,Buah,170
+66,Beras Hijau tua,Sayuran,64
+67,Jagung Zaitun,Buah,60
+68,Cabai Nila,Buah,80
+69,Tomat Biru laut,Pangan,164
+70,Kentang Perak,Sayuran,121
+71,Beras Biru laut,Buah,98
+72,Jagung Hijau,Buah,171
+73,Cabai Biru,Pangan,147
+74,Tomat Merah bata,Buah,114
+75,Kentang Koral,Sayuran,120
+76,Beras Biru muda,Pangan,34
+77,Jagung Biru,Sayuran,67
+78,Cabai Merah marun,Pangan,74
+79,Tomat Hijau muda,Buah,156
+80,Kentang Biru laut,Sayuran,104
+81,Beras Hijau muda,Pangan,174
+82,Jagung Emas,Sayuran,171
+83,Cabai Merah bata,Pangan,60
+84,Tomat Nila,Buah,76
+85,Kentang Biru laut,Sayuran,65
+86,Beras Zaitun,Pangan,73
+87,Jagung Merah jambu,Sayuran,161
+88,Cabai Zaitun,Pangan,26
+89,Tomat Koral,Buah,49
+90,Kentang Ungu,Sayuran,104
+91,Beras Hijau tua,Sayuran,171
+92,Jagung Merah marun,Sayuran,71
+93,Cabai Coklat tua,Pangan,23
+94,Tomat Emas,Sayuran,117
+95,Kentang Nila,Sayuran,81
+96,Beras Hijau,Buah,135
+97,Jagung Koral,Buah,14
+98,Cabai Ungu tua,Sayuran,23
+99,Tomat Merah,Pangan,83
+100,Kentang Emas,Buah,21
+101,Beras Hijau tua,Buah,177
+102,Jagung Putih,Pangan,68
+103,Cabai Jingga,Pangan,71
+104,Tomat Emas,Sayuran,117
+105,Kentang Biru dongker,Buah,158
+106,Beras Hijau muda,Buah,95
+107,Jagung Ungu,Sayuran,149
+108,Cabai Emas,Pangan,65
+109,Tomat Jingga,Pangan,118
+110,Kentang Koral,Buah,125
+111,Beras Putih,Pangan,13
+112,Jagung Perak,Pangan,156
+113,Cabai Merah bata,Buah,49
+114,Tomat Emas,Pangan,169
+115,Kentang Biru laut,Sayuran,70
+116,Beras Putih,Pangan,96
+117,Jagung Merah marun,Pangan,154
+118,Cabai Biru laut,Sayuran,118
+119,Tomat Merah,Sayuran,10
+120,Kentang Abu-abu,Buah,71
+121,Beras Hijau muda,Buah,179
+122,Jagung Magenta,Buah,48
+123,Cabai Nila,Pangan,89
+124,Tomat Merah bata,Sayuran,43
+125,Kentang Nila,Sayuran,30
+126,Beras Magenta,Sayuran,43
+127,Jagung Nila,Sayuran,7
+128,Cabai Merah,Pangan,169
+129,Tomat Abu-abu,Sayuran,132
+130,Kentang Coklat,Sayuran,28
+131,Beras Merah marun,Buah,149
+132,Jagung Hijau,Sayuran,123
+133,Cabai Hijau,Pangan,105
+134,Tomat Merah marun,Buah,16
+135,Kentang Coklat,Pangan,134
+136,Beras Hijau tua,Buah,143
+137,Jagung Biru,Pangan,149
+138,Cabai Putih,Buah,58
+139,Tomat Coklat,Buah,126
+140,Kentang Merah marun,Sayuran,148
+141,Beras Biru laut,Pangan,8
+142,Jagung Perak,Pangan,164
+143,Cabai Merah jambu,Pangan,164
+144,Tomat Merah,Pangan,105
+145,Kentang Biru,Pangan,138
+146,Beras Abu-abu,Buah,18
+147,Jagung Ungu,Sayuran,81
+148,Cabai Hijau tua,Pangan,172
+149,Tomat Nila,Buah,117
+150,Kentang Ungu tua,Sayuran,85
+151,Beras Biru dongker,Sayuran,44
+152,Jagung Putih,Buah,137
+153,Cabai Emas,Sayuran,57
+154,Tomat Merah jambu,Buah,81
+155,Kentang Biru dongker,Pangan,97
+156,Beras Perak,Buah,23
+157,Jagung Nila,Pangan,179
+158,Cabai Putih,Buah,26
+159,Tomat Nila,Buah,83
+160,Kentang Merah,Sayuran,30
+161,Beras Koral,Sayuran,33
+162,Jagung Merah bata,Pangan,99
+163,Cabai Hitam,Sayuran,111
+164,Tomat Nila,Buah,87
+165,Kentang Hijau tua,Sayuran,61
+166,Beras Biru laut,Pangan,50
+167,Jagung Coklat,Pangan,7
+168,Cabai Coklat tua,Pangan,19
+169,Tomat Jingga,Pangan,137
+170,Kentang Merah,Pangan,31
+171,Beras Koral,Sayuran,157
+172,Jagung Hitam,Pangan,168
+173,Cabai Coklat,Pangan,177
+174,Tomat Ungu tua,Pangan,49
+175,Kentang Perak,Buah,132
+176,Beras Ungu,Pangan,10
+177,Jagung Merah bata,Pangan,109
+178,Cabai Biru,Sayuran,71
+179,Tomat Abu-abu,Buah,15
+180,Kentang Abu-abu,Pangan,24
+181,Beras Magenta,Buah,170
+182,Jagung Biru,Sayuran,62
+183,Cabai Biru,Pangan,117
+184,Tomat Ungu tua,Buah,102
+185,Kentang Emas,Sayuran,34
+186,Beras Biru,Pangan,129
+187,Jagung Biru muda,Buah,67
+188,Cabai Koral,Sayuran,162
+189,Tomat Perak,Buah,64
+190,Kentang Magenta,Buah,68
+191,Beras Merah bata,Sayuran,144
+192,Jagung Biru dongker,Buah,131
+193,Cabai Kuning,Buah,34
+194,Tomat Coklat,Buah,84
+195,Kentang Coklat,Pangan,74
+196,Beras Coklat tua,Sayuran,150
+197,Jagung Abu-abu,Sayuran,7
+198,Cabai Abu-abu,Sayuran,133
+199,Tomat Koral,Pangan,79
+200,Kentang Hijau,Sayuran,38
+201,Beras Jingga,Pangan,47
+202,Jagung Hijau tua,Sayuran,161
+203,Cabai Biru,Pangan,36
+204,Tomat Hijau,Buah,9
+205,Kentang Hijau tua,Sayuran,133
+206,Beras Jingga,Sayuran,50
+207,Jagung Hijau muda,Pangan,140
+208,Cabai Ungu tua,Pangan,136
+209,Tomat Emas,Buah,80
+210,Kentang Coklat,Buah,140
+211,Beras Coklat tua,Pangan,26
+212,Jagung Abu-abu,Sayuran,125
+213,Cabai Coklat,Sayuran,20
+214,Tomat Hijau muda,Buah,152
+215,Kentang Putih,Pangan,108
+216,Beras Merah,Pangan,73
+217,Jagung Biru muda,Pangan,117
+218,Cabai Merah bata,Pangan,161
+219,Tomat Biru,Pangan,165
+220,Kentang Coklat,Buah,63
+221,Beras Coklat,Pangan,134
+222,Jagung Merah,Pangan,120
+223,Cabai Ungu tua,Buah,113
+224,Tomat Merah,Buah,138
+225,Kentang Hijau,Buah,99
+226,Beras Hijau tua,Sayuran,135
+227,Jagung Merah marun,Sayuran,51
+228,Cabai Biru dongker,Buah,42
+229,Tomat Kuning,Buah,148
+230,Kentang Hijau muda,Sayuran,79
+231,Beras Biru dongker,Pangan,132
+232,Jagung Biru dongker,Buah,152
+233,Cabai Koral,Pangan,130
+234,Tomat Hijau,Buah,7
+235,Kentang Merah,Sayuran,63
+236,Beras Biru dongker,Pangan,71
+237,Jagung Kuning,Pangan,79
+238,Cabai Jingga,Buah,32
+239,Tomat Merah jambu,Buah,129
+240,Kentang Abu-abu,Sayuran,74
+241,Beras Merah jambu,Buah,22
+242,Jagung Putih,Buah,62
+243,Cabai Kuning,Pangan,115
+244,Tomat Merah,Pangan,32
+245,Kentang Merah marun,Sayuran,74
+246,Beras Koral,Buah,30
+247,Jagung Kuning,Buah,13
+248,Cabai Merah,Buah,170
+249,Tomat Emas,Pangan,33
+250,Kentang Merah bata,Pangan,145
+251,Beras Emas,Sayuran,118
+252,Jagung Hijau,Pangan,47
+253,Cabai Coklat tua,Pangan,45
+254,Tomat Merah bata,Buah,52
+255,Kentang Merah marun,Sayuran,174
+256,Beras Ungu,Pangan,157
+257,Jagung Magenta,Sayuran,34
+258,Cabai Ungu tua,Sayuran,63
+259,Tomat Nila,Buah,164
+260,Kentang Hitam,Buah,71
+261,Beras Abu-abu,Pangan,148
+262,Jagung Biru dongker,Buah,75
+263,Cabai Abu-abu,Buah,93
+264,Tomat Coklat,Pangan,40
+265,Kentang Merah jambu,Pangan,69
+266,Beras Perak,Sayuran,12
+267,Jagung Magenta,Buah,34
+268,Cabai Zaitun,Sayuran,126
+269,Tomat Biru,Sayuran,175
+270,Kentang Hijau tua,Sayuran,107
+271,Beras Hijau,Buah,62
+272,Jagung Zaitun,Buah,170
+273,Cabai Biru muda,Pangan,146
+274,Tomat Hitam,Pangan,65
+275,Kentang Coklat tua,Sayuran,143
+276,Beras Coklat,Sayuran,96
+277,Jagung Merah bata,Buah,152
+278,Cabai Merah bata,Sayuran,99
+279,Tomat Perak,Buah,52
+280,Kentang Merah,Buah,149
+281,Beras Merah marun,Pangan,53
+282,Jagung Magenta,Buah,146
+283,Cabai Zaitun,Sayuran,131
+284,Tomat Koral,Buah,143
+285,Kentang Hijau muda,Buah,119
+286,Beras Emas,Buah,126
+287,Jagung Biru laut,Sayuran,121
+288,Cabai Nila,Sayuran,7
+289,Tomat Hijau,Pangan,81
+290,Kentang Hijau muda,Sayuran,112
+291,Beras Coklat,Sayuran,14
+292,Jagung Ungu,Buah,9
+293,Cabai Merah marun,Buah,61
+294,Tomat Putih,Pangan,161
+295,Kentang Biru muda,Sayuran,30
+296,Beras Biru muda,Sayuran,178
+297,Jagung Kuning,Buah,83
+298,Cabai Hijau muda,Sayuran,63
+299,Tomat Jingga,Buah,7
+300,Kentang Coklat tua,Sayuran,173
+301,Beras Hijau muda,Sayuran,19
+302,Jagung Magenta,Pangan,78
+303,Cabai Hijau muda,Sayuran,23
+304,Tomat Zaitun,Sayuran,179
+305,Kentang Hitam,Buah,126
+306,Beras Ungu,Buah,19
+307,Jagung Perak,Pangan,91
+308,Cabai Nila,Pangan,48
+309,Tomat Biru muda,Sayuran,27
+310,Kentang Ungu,Sayuran,46
+311,Beras Jingga,Buah,111
+312,Jagung Jingga,Pangan,84
+313,Cabai Zaitun,Buah,128
+314,Tomat Perak,Pangan,11
+315,Kentang Koral,Pangan,94
+316,Beras Coklat tua,Buah,53
+317,Jagung Ungu tua,Pangan,150
+318,Cabai Coklat,Buah,35
+319,Tomat Abu-abu,Pangan,43
+320,Kentang Biru laut,Pangan,106
+321,Beras Putih,Sayuran,136
+322,Jagung Merah marun,Sayuran,111
+323,Cabai Kuning,Sayuran,93
+324,Tomat Emas,Sayuran,62
+325,Kentang Biru dongker,Pangan,107
+326,Beras Merah,Buah,18
+327,Jagung Ungu,Buah,38
+328,Cabai Jingga,Buah,45
+329,Tomat Kuning,Buah,102
+330,Kentang Perak,Sayuran,174
+331,Beras Hijau,Pangan,47
+332,Jagung Biru muda,Pangan,137
+333,Cabai Zaitun,Sayuran,116
+334,Tomat Magenta,Buah,100
+335,Kentang Coklat,Pangan,158
+336,Beras Merah bata,Pangan,7
+337,Jagung Ungu,Buah,152
+338,Cabai Merah,Sayuran,107
+339,Tomat Coklat tua,Pangan,60
+340,Kentang Biru,Buah,57
+341,Beras Biru laut,Pangan,170
+342,Jagung Hijau tua,Buah,119
+343,Cabai Merah bata,Pangan,65
+344,Tomat Merah,Sayuran,75
+345,Kentang Hijau,Buah,101
+346,Beras Jingga,Pangan,163
+347,Jagung Nila,Sayuran,62
+348,Cabai Jingga,Pangan,135
+349,Tomat Merah jambu,Pangan,46
+350,Kentang Abu-abu,Sayuran,82
+351,Beras Merah marun,Pangan,162
+352,Jagung Biru dongker,Pangan,72
+353,Cabai Hijau tua,Sayuran,124
+354,Tomat Hijau,Buah,27
+355,Kentang Merah bata,Buah,62
+356,Beras Hijau tua,Sayuran,101
+357,Jagung Emas,Sayuran,103
+358,Cabai Hijau,Sayuran,180
+359,Tomat Merah,Buah,173
+360,Kentang Perak,Sayuran,100
+361,Beras Merah,Pangan,103
+362,Jagung Biru dongker,Pangan,57
+363,Cabai Nila,Buah,70
+364,Tomat Coklat tua,Sayuran,131
+365,Kentang Jingga,Pangan,19
+366,Beras Jingga,Pangan,169
+367,Jagung Putih,Pangan,58
+368,Cabai Merah marun,Buah,137
+369,Tomat Zaitun,Sayuran,43
+370,Kentang Emas,Sayuran,60
+371,Beras Abu-abu,Pangan,20
+372,Jagung Perak,Pangan,72
+373,Cabai Emas,Buah,16
+374,Tomat Ungu,Sayuran,44
+375,Kentang Kuning,Sayuran,175
+376,Beras Biru muda,Buah,119
+377,Jagung Coklat,Sayuran,42
+378,Cabai Nila,Buah,173
+379,Tomat Biru,Pangan,110
+380,Kentang Ungu tua,Sayuran,73
+381,Beras Hijau,Pangan,86
+382,Jagung Jingga,Sayuran,147
+383,Cabai Kuning,Buah,132
+384,Tomat Biru muda,Sayuran,51
+385,Kentang Emas,Pangan,82
+386,Beras Merah bata,Buah,158
+387,Jagung Emas,Sayuran,155
+388,Cabai Merah,Buah,108
+389,Tomat Biru dongker,Buah,116
+390,Kentang Merah bata,Sayuran,76
+391,Beras Merah marun,Buah,127
+392,Jagung Merah,Pangan,125
+393,Cabai Magenta,Buah,23
+394,Tomat Merah marun,Pangan,156
+395,Kentang Hijau,Sayuran,54
+396,Beras Koral,Buah,74
+397,Jagung Hitam,Sayuran,160
+398,Cabai Biru laut,Sayuran,34
+399,Tomat Merah jambu,Sayuran,18
+400,Kentang Magenta,Buah,109
+401,Beras Biru dongker,Sayuran,166
+402,Jagung Magenta,Sayuran,127
+403,Cabai Merah,Buah,42
+404,Tomat Merah marun,Sayuran,26
+405,Kentang Merah jambu,Buah,40
+406,Beras Biru dongker,Sayuran,141
+407,Jagung Merah jambu,Sayuran,107
+408,Cabai Abu-abu,Sayuran,10
+409,Tomat Merah bata,Pangan,84
+410,Kentang Merah bata,Sayuran,178
+411,Beras Jingga,Sayuran,115
+412,Jagung Perak,Buah,36
+413,Cabai Kuning,Sayuran,94
+414,Tomat Merah bata,Pangan,165
+415,Kentang Magenta,Buah,130
+416,Beras Merah jambu,Buah,140
+417,Jagung Biru dongker,Sayuran,77
+418,Cabai Hijau tua,Sayuran,73
+419,Tomat Magenta,Sayuran,19
+420,Kentang Coklat,Sayuran,178
+421,Beras Nila,Sayuran,160
+422,Jagung Hitam,Buah,139
+423,Cabai Merah bata,Pangan,138
+424,Tomat Coklat,Buah,137
+425,Kentang Coklat tua,Buah,147
+426,Beras Coklat,Sayuran,171
+427,Jagung Hijau,Sayuran,176
+428,Cabai Hijau,Sayuran,44
+429,Tomat Coklat,Buah,146
+430,Kentang Abu-abu,Buah,20
+431,Beras Hitam,Pangan,11
+432,Jagung Merah jambu,Pangan,45
+433,Cabai Magenta,Pangan,16
+434,Tomat Jingga,Sayuran,18
+435,Kentang Jingga,Buah,120
+436,Beras Perak,Pangan,109
+437,Jagung Biru muda,Pangan,80
+438,Cabai Koral,Buah,61
+439,Tomat Merah,Buah,96
+440,Kentang Abu-abu,Sayuran,72
+441,Beras Merah bata,Buah,13
+442,Jagung Ungu tua,Pangan,34
+443,Cabai Biru,Sayuran,52
+444,Tomat Abu-abu,Sayuran,42
+445,Kentang Ungu,Sayuran,157
+446,Beras Jingga,Sayuran,29
+447,Jagung Biru muda,Buah,89
+448,Cabai Biru muda,Pangan,65
+449,Tomat Coklat,Pangan,172
+450,Kentang Hijau,Pangan,32
+451,Beras Nila,Sayuran,30
+452,Jagung Nila,Pangan,57
+453,Cabai Ungu tua,Buah,39
+454,Tomat Biru dongker,Buah,66
+455,Kentang Biru laut,Pangan,168
+456,Beras Merah bata,Buah,73
+457,Jagung Magenta,Sayuran,54
+458,Cabai Perak,Buah,37
+459,Tomat Hijau,Sayuran,56
+460,Kentang Jingga,Sayuran,129
+461,Beras Coklat tua,Sayuran,88
+462,Jagung Biru laut,Buah,104
+463,Cabai Hitam,Buah,105
+464,Tomat Hijau muda,Sayuran,47
+465,Kentang Biru laut,Pangan,37
+466,Beras Kuning,Pangan,15
+467,Jagung Biru dongker,Sayuran,39
+468,Cabai Biru dongker,Pangan,115
+469,Tomat Hijau,Pangan,121
+470,Kentang Emas,Pangan,140
+471,Beras Merah jambu,Sayuran,75
+472,Jagung Jingga,Sayuran,61
+473,Cabai Biru laut,Pangan,119
+474,Tomat Merah bata,Buah,78
+475,Kentang Nila,Pangan,87
+476,Beras Kuning,Buah,23
+477,Jagung Hijau tua,Pangan,102
+478,Cabai Emas,Buah,41
+479,Tomat Putih,Buah,172
+480,Kentang Coklat tua,Sayuran,52
+481,Beras Biru,Pangan,28
+482,Jagung Merah bata,Pangan,150
+483,Cabai Hijau,Pangan,163
+484,Tomat Merah marun,Pangan,168
+485,Kentang Merah marun,Pangan,178
+486,Beras Zaitun,Pangan,105
+487,Jagung Biru,Buah,28
+488,Cabai Abu-abu,Buah,53
+489,Tomat Jingga,Buah,86
+490,Kentang Emas,Buah,108
+491,Beras Perak,Buah,175
+492,Jagung Hijau,Pangan,65
+493,Cabai Merah marun,Buah,135
+494,Tomat Ungu,Sayuran,60
+495,Kentang Ungu,Pangan,175
+496,Beras Merah,Buah,70
+497,Jagung Magenta,Buah,159
+498,Cabai Biru dongker,Pangan,35
+499,Tomat Magenta,Pangan,112
+500,Kentang Merah jambu,Buah,140
+501,Beras Biru muda,Buah,71
+502,Jagung Merah jambu,Pangan,174
+503,Cabai Perak,Sayuran,177
+504,Tomat Coklat,Sayuran,177
+505,Kentang Abu-abu,Sayuran,49
+506,Beras Biru muda,Sayuran,28
+507,Jagung Zaitun,Buah,119
+508,Cabai Merah,Sayuran,36
+509,Tomat Merah bata,Sayuran,9
+510,Kentang Hijau,Sayuran,159
+511,Beras Ungu tua,Pangan,155
+512,Jagung Zaitun,Sayuran,176
+513,Cabai Merah jambu,Buah,66
+514,Tomat Hijau muda,Sayuran,73
+515,Kentang Merah bata,Sayuran,68
+516,Beras Jingga,Pangan,72
+517,Jagung Merah jambu,Pangan,158
+518,Cabai Biru dongker,Buah,110
+519,Tomat Biru laut,Pangan,110
+520,Kentang Magenta,Buah,153
+521,Beras Merah,Buah,152
+522,Jagung Putih,Pangan,10
+523,Cabai Jingga,Sayuran,148
+524,Tomat Biru dongker,Pangan,86
+525,Kentang Putih,Buah,152
+526,Beras Merah,Sayuran,88
+527,Jagung Koral,Buah,95
+528,Cabai Magenta,Sayuran,46
+529,Tomat Ungu,Buah,143
+530,Kentang Merah marun,Sayuran,55
+531,Beras Putih,Buah,173
+532,Jagung Merah bata,Sayuran,143
+533,Cabai Biru laut,Buah,133
+534,Tomat Coklat tua,Pangan,69
+535,Kentang Coklat,Sayuran,102
+536,Beras Magenta,Buah,161
+537,Jagung Merah jambu,Pangan,161
+538,Cabai Biru muda,Pangan,18
+539,Tomat Merah jambu,Sayuran,50
+540,Kentang Hitam,Sayuran,16
+541,Beras Merah jambu,Buah,156
+542,Jagung Hijau tua,Pangan,159
+543,Cabai Hijau muda,Buah,114
+544,Tomat Merah jambu,Pangan,106
+545,Kentang Ungu,Sayuran,144
+546,Beras Hijau muda,Sayuran,113
+547,Jagung Merah,Pangan,142
+548,Cabai Hijau tua,Buah,128
+549,Tomat Ungu tua,Pangan,29
+550,Kentang Biru laut,Pangan,149
+551,Beras Merah bata,Pangan,125
+552,Jagung Nila,Sayuran,15
+553,Cabai Koral,Pangan,123
+554,Tomat Abu-abu,Sayuran,175
+555,Kentang Magenta,Buah,88
+556,Beras Merah marun,Pangan,153
+557,Jagung Abu-abu,Buah,129
+558,Cabai Coklat tua,Pangan,101
+559,Tomat Biru dongker,Sayuran,66
+560,Kentang Hijau muda,Sayuran,13
+561,Beras Nila,Sayuran,106
+562,Jagung Biru muda,Pangan,22
+563,Cabai Kuning,Pangan,148
+564,Tomat Biru muda,Buah,39
+565,Kentang Merah,Pangan,18
+566,Beras Coklat,Sayuran,103
+567,Jagung Ungu,Pangan,100
+568,Cabai Perak,Sayuran,105
+569,Tomat Merah,Buah,120
+570,Kentang Merah bata,Buah,67
+571,Beras Zaitun,Pangan,154
+572,Jagung Merah jambu,Buah,38
+573,Cabai Zaitun,Pangan,128
+574,Tomat Kuning,Buah,113
+575,Kentang Zaitun,Pangan,71
+576,Beras Putih,Buah,60
+577,Jagung Biru muda,Buah,134
+578,Cabai Ungu tua,Buah,47
+579,Tomat Biru laut,Pangan,22
+580,Kentang Abu-abu,Sayuran,171
+581,Beras Biru,Buah,15
+582,Jagung Merah marun,Sayuran,174
+583,Cabai Perak,Sayuran,109
+584,Tomat Koral,Pangan,173
+585,Kentang Zaitun,Buah,159
+586,Beras Emas,Buah,18
+587,Jagung Ungu,Sayuran,19
+588,Cabai Merah marun,Buah,58
+589,Tomat Abu-abu,Pangan,28
+590,Kentang Emas,Sayuran,142
+591,Beras Putih,Buah,120
+592,Jagung Merah marun,Buah,59
+593,Cabai Ungu tua,Sayuran,49
+594,Tomat Biru dongker,Sayuran,116
+595,Kentang Hijau,Buah,61
+596,Beras Emas,Buah,134
+597,Jagung Hijau tua,Pangan,160
+598,Cabai Perak,Sayuran,12
+599,Tomat Abu-abu,Sayuran,61
+600,Kentang Coklat tua,Sayuran,135
+601,Beras Koral,Sayuran,60
+602,Jagung Koral,Sayuran,168
+603,Cabai Merah jambu,Buah,22
+604,Tomat Merah jambu,Sayuran,68
+605,Kentang Nila,Buah,44
+606,Beras Koral,Pangan,163
+607,Jagung Emas,Pangan,50
+608,Cabai Perak,Pangan,156
+609,Tomat Biru laut,Sayuran,173
+610,Kentang Ungu tua,Buah,42
+611,Beras Biru dongker,Buah,58
+612,Jagung Hijau muda,Pangan,170
+613,Cabai Hijau muda,Sayuran,24
+614,Tomat Emas,Pangan,124
+615,Kentang Hijau,Buah,123
+616,Beras Emas,Sayuran,8
+617,Jagung Ungu,Pangan,149
+618,Cabai Ungu,Buah,57
+619,Tomat Hijau,Pangan,84
+620,Kentang Jingga,Pangan,42
+621,Beras Coklat,Sayuran,142
+622,Jagung Ungu tua,Pangan,176
+623,Cabai Biru,Sayuran,99
+624,Tomat Biru laut,Buah,118
+625,Kentang Biru muda,Pangan,76
+626,Beras Coklat tua,Pangan,40
+627,Jagung Ungu tua,Pangan,76
+628,Cabai Perak,Sayuran,13
+629,Tomat Biru muda,Pangan,89
+630,Kentang Coklat,Pangan,147
+631,Beras Jingga,Pangan,127
+632,Jagung Biru dongker,Sayuran,133
+633,Cabai Zaitun,Pangan,19
+634,Tomat Biru muda,Buah,119
+635,Kentang Biru dongker,Buah,171
+636,Beras Biru laut,Pangan,72
+637,Jagung Ungu tua,Buah,78
+638,Cabai Coklat tua,Buah,164
+639,Tomat Ungu,Pangan,122
+640,Kentang Hijau muda,Sayuran,65
+641,Beras Ungu tua,Sayuran,163
+642,Jagung Nila,Sayuran,168
+643,Cabai Emas,Pangan,39
+644,Tomat Hijau,Buah,172
+645,Kentang Coklat,Sayuran,52
+646,Beras Putih,Sayuran,52
+647,Jagung Merah jambu,Sayuran,111
+648,Cabai Ungu,Sayuran,8
+649,Tomat Jingga,Buah,113
+650,Kentang Merah,Pangan,44
+651,Beras Biru,Sayuran,47
+652,Jagung Biru muda,Pangan,153
+653,Cabai Hijau muda,Buah,31
+654,Tomat Emas,Sayuran,176
+655,Kentang Merah jambu,Buah,166
+656,Beras Hijau tua,Buah,47
+657,Jagung Merah jambu,Buah,164
+658,Cabai Merah marun,Buah,30
+659,Tomat Biru laut,Sayuran,92
+660,Kentang Hitam,Buah,9
+661,Beras Ungu,Buah,170
+662,Jagung Hijau,Sayuran,68
+663,Cabai Hijau muda,Pangan,55
+664,Tomat Coklat tua,Buah,175
+665,Kentang Merah bata,Sayuran,16
+666,Beras Perak,Sayuran,127
+667,Jagung Biru muda,Buah,14
+668,Cabai Koral,Sayuran,154
+669,Tomat Coklat,Sayuran,147
+670,Kentang Biru,Sayuran,42
+671,Beras Coklat,Pangan,123
+672,Jagung Magenta,Pangan,24
+673,Cabai Nila,Sayuran,74
+674,Tomat Biru muda,Sayuran,140
+675,Kentang Hijau tua,Buah,68
+676,Beras Biru,Pangan,101
+677,Jagung Zaitun,Buah,61
+678,Cabai Perak,Sayuran,41
+679,Tomat Hijau muda,Buah,40
+680,Kentang Emas,Pangan,125
+681,Beras Hitam,Pangan,48
+682,Jagung Biru,Buah,34
+683,Cabai Ungu tua,Sayuran,120
+684,Tomat Hijau muda,Pangan,96
+685,Kentang Ungu tua,Buah,130
+686,Beras Merah,Sayuran,118
+687,Jagung Merah bata,Pangan,164
+688,Cabai Nila,Buah,118
+689,Tomat Hitam,Sayuran,55
+690,Kentang Emas,Pangan,132
+691,Beras Putih,Sayuran,161
+692,Jagung Nila,Sayuran,40
+693,Cabai Hitam,Sayuran,69
+694,Tomat Kuning,Sayuran,159
+695,Kentang Zaitun,Pangan,144
+696,Beras Abu-abu,Pangan,77
+697,Jagung Ungu,Buah,33
+698,Cabai Koral,Sayuran,111
+699,Tomat Hijau muda,Sayuran,140
+700,Kentang Hijau muda,Pangan,71
+701,Beras Biru laut,Pangan,156
+702,Jagung Coklat,Sayuran,152
+703,Cabai Kuning,Buah,130
+704,Tomat Coklat,Buah,85
+705,Kentang Koral,Buah,142
+706,Beras Biru muda,Sayuran,91
+707,Jagung Ungu,Buah,33
+708,Cabai Emas,Pangan,147
+709,Tomat Abu-abu,Pangan,88
+710,Kentang Hijau tua,Sayuran,64
+711,Beras Hijau tua,Pangan,113
+712,Jagung Merah marun,Sayuran,97
+713,Cabai Coklat tua,Pangan,121
+714,Tomat Biru laut,Buah,99
+715,Kentang Merah,Buah,179
+716,Beras Perak,Sayuran,76
+717,Jagung Hitam,Sayuran,156
+718,Cabai Merah jambu,Pangan,111
+719,Tomat Magenta,Buah,126
+720,Kentang Hijau tua,Buah,134
+721,Beras Biru muda,Buah,139
+722,Jagung Hitam,Pangan,65
+723,Cabai Kuning,Buah,78
+724,Tomat Biru,Pangan,47
+725,Kentang Merah bata,Sayuran,103
+726,Beras Ungu tua,Buah,69
+727,Jagung Nila,Sayuran,128
+728,Cabai Biru laut,Pangan,95
+729,Tomat Biru,Pangan,19
+730,Kentang Biru,Pangan,122
+731,Beras Merah jambu,Buah,37
+732,Jagung Biru muda,Sayuran,26
+733,Cabai Coklat,Buah,10
+734,Tomat Hitam,Pangan,23
+735,Kentang Hijau,Buah,163
+736,Beras Biru dongker,Sayuran,109
+737,Jagung Hijau muda,Buah,49
+738,Cabai Biru muda,Sayuran,41
+739,Tomat Jingga,Buah,154
+740,Kentang Merah marun,Buah,144
+741,Beras Coklat,Sayuran,49
+742,Jagung Perak,Sayuran,73
+743,Cabai Merah bata,Pangan,31
+744,Tomat Putih,Pangan,43
+745,Kentang Biru dongker,Sayuran,173
+746,Beras Perak,Pangan,63
+747,Jagung Coklat tua,Pangan,12
+748,Cabai Kuning,Pangan,178
+749,Tomat Hijau tua,Buah,37
+750,Kentang Merah jambu,Pangan,9
+751,Beras Hijau muda,Buah,118
+752,Jagung Coklat tua,Pangan,36
+753,Cabai Biru laut,Pangan,147
+754,Tomat Merah bata,Pangan,51
+755,Kentang Abu-abu,Pangan,98
+756,Beras Putih,Pangan,141
+757,Jagung Perak,Buah,29
+758,Cabai Biru muda,Buah,102
+759,Tomat Biru muda,Sayuran,61
+760,Kentang Jingga,Buah,158
+761,Beras Nila,Buah,122
+762,Jagung Abu-abu,Buah,57
+763,Cabai Hijau tua,Pangan,79
+764,Tomat Biru laut,Sayuran,69
+765,Kentang Nila,Pangan,23
+766,Beras Merah marun,Pangan,146
+767,Jagung Coklat,Pangan,133
+768,Cabai Merah jambu,Pangan,50
+769,Tomat Jingga,Pangan,159
+770,Kentang Kuning,Pangan,155
+771,Beras Coklat tua,Pangan,34
+772,Jagung Coklat,Buah,44
+773,Cabai Hitam,Buah,33
+774,Tomat Coklat tua,Pangan,112
+775,Kentang Coklat tua,Pangan,29
+776,Beras Hijau tua,Sayuran,95
+777,Jagung Hijau tua,Sayuran,160
+778,Cabai Merah jambu,Sayuran,18
+779,Tomat Hijau tua,Buah,136
+780,Kentang Putih,Buah,85
+781,Beras Emas,Buah,135
+782,Jagung Biru dongker,Buah,133
+783,Cabai Biru dongker,Buah,140
+784,Tomat Ungu,Pangan,48
+785,Kentang Nila,Sayuran,82
+786,Beras Nila,Pangan,141
+787,Jagung Ungu,Pangan,107
+788,Cabai Coklat,Pangan,151
+789,Tomat Merah jambu,Buah,10
+790,Kentang Perak,Pangan,88
+791,Beras Nila,Sayuran,148
+792,Jagung Emas,Pangan,110
+793,Cabai Nila,Sayuran,149
+794,Tomat Putih,Buah,180
+795,Kentang Coklat,Pangan,55
+796,Beras Merah marun,Pangan,65
+797,Jagung Emas,Pangan,171
+798,Cabai Magenta,Buah,51
+799,Tomat Biru dongker,Sayuran,18
+800,Kentang Hitam,Buah,67
+801,Beras Jingga,Sayuran,13
+802,Jagung Biru dongker,Sayuran,26
+803,Cabai Hitam,Pangan,58
+804,Tomat Hijau tua,Buah,177
+805,Kentang Coklat,Sayuran,38
+806,Beras Ungu tua,Buah,13
+807,Jagung Biru muda,Pangan,124
+808,Cabai Emas,Sayuran,35
+809,Tomat Koral,Sayuran,24
+810,Kentang Biru dongker,Buah,90
+811,Beras Hijau muda,Buah,101
+812,Jagung Zaitun,Sayuran,141
+813,Cabai Nila,Pangan,19
+814,Tomat Putih,Sayuran,80
+815,Kentang Jingga,Sayuran,102
+816,Beras Nila,Sayuran,158
+817,Jagung Hitam,Pangan,66
+818,Cabai Magenta,Pangan,144
+819,Tomat Ungu,Sayuran,36
+820,Kentang Biru laut,Pangan,104
+821,Beras Koral,Buah,21
+822,Jagung Coklat tua,Sayuran,21
+823,Cabai Koral,Sayuran,70
+824,Tomat Biru muda,Pangan,162
+825,Kentang Biru,Pangan,54
+826,Beras Biru laut,Buah,8
+827,Jagung Biru laut,Pangan,169
+828,Cabai Coklat,Sayuran,43
+829,Tomat Zaitun,Buah,71
+830,Kentang Hijau tua,Sayuran,49
+831,Beras Hijau,Buah,152
+832,Jagung Perak,Sayuran,56
+833,Cabai Merah marun,Buah,150
+834,Tomat Koral,Pangan,70
+835,Kentang Biru laut,Sayuran,27
+836,Beras Biru dongker,Pangan,157
+837,Jagung Hijau muda,Buah,138
+838,Cabai Koral,Pangan,57
+839,Tomat Biru,Buah,11
+840,Kentang Ungu,Pangan,104
+841,Beras Hijau,Pangan,47
+842,Jagung Emas,Sayuran,107
+843,Cabai Hijau tua,Sayuran,144
+844,Tomat Koral,Pangan,67
+845,Kentang Hijau muda,Pangan,69
+846,Beras Hitam,Buah,165
+847,Jagung Perak,Sayuran,175
+848,Cabai Hijau muda,Pangan,86
+849,Tomat Emas,Pangan,150
+850,Kentang Biru laut,Buah,153
+851,Beras Coklat tua,Pangan,103
+852,Jagung Putih,Pangan,169
+853,Cabai Merah bata,Buah,178
+854,Tomat Perak,Buah,97
+855,Kentang Coklat,Sayuran,106
+856,Beras Merah jambu,Buah,21
+857,Jagung Magenta,Buah,125
+858,Cabai Biru laut,Buah,172
+859,Tomat Ungu,Pangan,90
+860,Kentang Kuning,Pangan,154
+861,Beras Perak,Pangan,97
+862,Jagung Jingga,Sayuran,10
+863,Cabai Kuning,Sayuran,64
+864,Tomat Biru dongker,Sayuran,107
+865,Kentang Perak,Pangan,73
+866,Beras Merah marun,Pangan,89
+867,Jagung Coklat,Sayuran,109
+868,Cabai Ungu tua,Pangan,27
+869,Tomat Kuning,Buah,101
+870,Kentang Coklat tua,Pangan,14
+871,Beras Coklat tua,Pangan,142
+872,Jagung Merah marun,Sayuran,49
+873,Cabai Hijau tua,Buah,55
+874,Tomat Coklat tua,Sayuran,39
+875,Kentang Koral,Pangan,117
+876,Beras Merah,Sayuran,37
+877,Jagung Hitam,Pangan,135
+878,Cabai Coklat,Pangan,45
+879,Tomat Hijau,Sayuran,27
+880,Kentang Merah jambu,Buah,12
+881,Beras Biru laut,Sayuran,73
+882,Jagung Magenta,Pangan,48
+883,Cabai Koral,Sayuran,100
+884,Tomat Biru laut,Sayuran,113
+885,Kentang Hitam,Pangan,67
+886,Beras Ungu tua,Pangan,122
+887,Jagung Biru muda,Pangan,179
+888,Cabai Hijau tua,Sayuran,13
+889,Tomat Ungu tua,Pangan,103
+890,Kentang Coklat,Buah,136
+891,Beras Putih,Sayuran,152
+892,Jagung Zaitun,Buah,115
+893,Cabai Magenta,Buah,145
+894,Tomat Ungu,Sayuran,150
+895,Kentang Abu-abu,Sayuran,173
+896,Beras Hitam,Sayuran,14
+897,Jagung Magenta,Pangan,13
+898,Cabai Hijau,Pangan,117
+899,Tomat Kuning,Sayuran,11
+900,Kentang Nila,Sayuran,90
+901,Beras Kuning,Pangan,36
+902,Jagung Hijau tua,Sayuran,61
+903,Cabai Hijau,Pangan,162
+904,Tomat Magenta,Buah,68
+905,Kentang Merah jambu,Pangan,135
+906,Beras Biru,Buah,34
+907,Jagung Putih,Sayuran,141
+908,Cabai Koral,Pangan,125
+909,Tomat Zaitun,Pangan,121
+910,Kentang Merah,Pangan,23
+911,Beras Jingga,Pangan,46
+912,Jagung Merah marun,Sayuran,155
+913,Cabai Biru laut,Pangan,99
+914,Tomat Ungu tua,Buah,124
+915,Kentang Biru muda,Pangan,20
+916,Beras Hijau tua,Sayuran,170
+917,Jagung Hijau,Buah,92
+918,Cabai Hijau,Pangan,152
+919,Tomat Merah jambu,Pangan,77
+920,Kentang Coklat tua,Pangan,20
+921,Beras Koral,Pangan,77
+922,Jagung Ungu,Pangan,129
+923,Cabai Hitam,Sayuran,43
+924,Tomat Biru muda,Sayuran,64
+925,Kentang Merah,Pangan,140
+926,Beras Koral,Buah,53
+927,Jagung Merah marun,Buah,138
+928,Cabai Biru dongker,Sayuran,102
+929,Tomat Jingga,Buah,145
+930,Kentang Merah marun,Buah,13
+931,Beras Biru,Pangan,174
+932,Jagung Putih,Sayuran,93
+933,Cabai Zaitun,Sayuran,89
+934,Tomat Ungu tua,Pangan,23
+935,Kentang Merah jambu,Sayuran,75
+936,Beras Hijau tua,Pangan,9
+937,Jagung Ungu,Buah,31
+938,Cabai Perak,Pangan,103
+939,Tomat Merah,Sayuran,10
+940,Kentang Ungu,Pangan,151
+941,Beras Hijau tua,Sayuran,119
+942,Jagung Ungu tua,Sayuran,88
+943,Cabai Ungu,Pangan,52
+944,Tomat Coklat,Pangan,67
+945,Kentang Hijau tua,Buah,88
+946,Beras Merah marun,Buah,128
+947,Jagung Abu-abu,Sayuran,90
+948,Cabai Ungu tua,Sayuran,38
+949,Tomat Ungu,Sayuran,98
+950,Kentang Biru dongker,Buah,155
+951,Beras Coklat,Sayuran,123
+952,Jagung Koral,Pangan,52
+953,Cabai Magenta,Pangan,116
+954,Tomat Biru dongker,Pangan,129
+955,Kentang Hitam,Sayuran,107
+956,Beras Nila,Sayuran,47
+957,Jagung Coklat,Sayuran,114
+958,Cabai Merah bata,Sayuran,176
+959,Tomat Perak,Pangan,19
+960,Kentang Abu-abu,Buah,67
+961,Beras Hijau tua,Sayuran,13
+962,Jagung Ungu,Buah,34
+963,Cabai Koral,Buah,74
+964,Tomat Coklat tua,Pangan,123
+965,Kentang Hitam,Pangan,147
+966,Beras Merah,Pangan,25
+967,Jagung Merah jambu,Pangan,166
+968,Cabai Merah marun,Buah,171
+969,Tomat Zaitun,Pangan,103
+970,Kentang Magenta,Buah,165
+971,Beras Biru,Pangan,58
+972,Jagung Abu-abu,Sayuran,158
+973,Cabai Koral,Pangan,25
+974,Tomat Zaitun,Sayuran,129
+975,Kentang Merah jambu,Pangan,34
+976,Beras Putih,Sayuran,22
+977,Jagung Zaitun,Buah,169
+978,Cabai Merah,Sayuran,145
+979,Tomat Magenta,Buah,42
+980,Kentang Merah marun,Pangan,51
+981,Beras Coklat,Buah,22
+982,Jagung Hitam,Sayuran,96
+983,Cabai Jingga,Buah,105
+984,Tomat Biru,Sayuran,105
+985,Kentang Merah jambu,Pangan,133
+986,Beras Hijau,Pangan,141
+987,Jagung Biru laut,Pangan,114
+988,Cabai Biru,Buah,42
+989,Tomat Putih,Buah,178
+990,Kentang Merah marun,Buah,10
+991,Beras Koral,Pangan,88
+992,Jagung Hijau muda,Pangan,174
+993,Cabai Merah marun,Buah,29
+994,Tomat Coklat,Buah,84
+995,Kentang Hijau,Sayuran,167
+996,Beras Biru laut,Pangan,37
+997,Jagung Ungu tua,Sayuran,9
+998,Cabai Hijau tua,Buah,174
+999,Tomat Biru muda,Pangan,127
+1000,Kentang Jingga,Sayuran,42

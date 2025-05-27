@@ -1,0 +1,1001 @@
+warehouse_id,location,capacity_kg
+1,Bengkulu,7774
+2,Batam,8669
+3,Tasikmalaya,10306
+4,Mojokerto,7983
+5,Mataram,5872
+6,Depok,6379
+7,Binjai,13129
+8,Palu,10630
+9,Bekasi,13002
+10,Magelang,12681
+11,Meulaboh,14250
+12,Kota Administrasi Jakarta Selatan,9753
+13,Tual,11962
+14,Sabang,9176
+15,Kota Administrasi Jakarta Selatan,7773
+16,Lhokseumawe,11045
+17,Kupang,14655
+18,Dumai,13549
+19,Bandar Lampung,5138
+20,Cimahi,8219
+21,Kotamobagu,12900
+22,Palembang,8377
+23,Padang Sidempuan,7309
+24,Serang,7305
+25,Tangerang Selatan,6904
+26,Salatiga,10566
+27,Blitar,12100
+28,Payakumbuh,7281
+29,Solok,13769
+30,Pematangsiantar,14196
+31,Malang,10487
+32,Meulaboh,9490
+33,Bogor,11330
+34,Tangerang,8482
+35,Payakumbuh,9649
+36,Tanjungbalai,12669
+37,Sawahlunto,9518
+38,Kota Administrasi Jakarta Pusat,8188
+39,Padang,9913
+40,Kediri,8774
+41,Tangerang,14489
+42,Sungai Penuh,10403
+43,Pasuruan,8132
+44,Palopo,5767
+45,Lhokseumawe,13932
+46,Tangerang,14213
+47,Sibolga,8276
+48,Tangerang Selatan,7404
+49,Surakarta,6482
+50,Samarinda,13340
+51,Tarakan,14610
+52,Tebingtinggi,11289
+53,Probolinggo,6403
+54,Ternate,11985
+55,Lubuklinggau,8872
+56,Tomohon,7630
+57,Sibolga,8648
+58,Binjai,11437
+59,Kendari,5217
+60,Manado,13492
+61,Palembang,12934
+62,Bogor,7542
+63,Kota Administrasi Jakarta Timur,13909
+64,Prabumulih,7410
+65,Samarinda,8605
+66,Depok,10141
+67,Tidore Kepulauan,5765
+68,Denpasar,13290
+69,Banjar,11962
+70,Bukittinggi,12316
+71,Mataram,8401
+72,Kediri,10401
+73,Payakumbuh,8284
+74,Madiun,6326
+75,Tebingtinggi,6897
+76,Medan,13999
+77,Bukittinggi,7486
+78,Pagaralam,10116
+79,Bandung,14313
+80,Kendari,14390
+81,Batu,7242
+82,Jayapura,9146
+83,Subulussalam,7216
+84,Lubuklinggau,10384
+85,Bogor,12528
+86,Tangerang Selatan,13376
+87,Tidore Kepulauan,5052
+88,Sungai Penuh,13560
+89,Kupang,6606
+90,Palembang,8974
+91,Bitung,13418
+92,Subulussalam,12828
+93,Malang,5796
+94,Tasikmalaya,5584
+95,Medan,9450
+96,Tebingtinggi,5805
+97,Kota Administrasi Jakarta Selatan,12604
+98,Pangkalpinang,5531
+99,Mataram,13734
+100,Sibolga,10585
+101,Kotamobagu,7836
+102,Pasuruan,14342
+103,Dumai,13344
+104,Kota Administrasi Jakarta Pusat,5157
+105,Palembang,6948
+106,Tidore Kepulauan,5566
+107,Subulussalam,11245
+108,Probolinggo,9392
+109,Semarang,14969
+110,Bekasi,5933
+111,Pontianak,11339
+112,Salatiga,7752
+113,Cirebon,8369
+114,Bandar Lampung,11873
+115,Ternate,14582
+116,Kupang,11634
+117,Kotamobagu,13826
+118,Makassar,9733
+119,Tangerang Selatan,13529
+120,Tidore Kepulauan,11558
+121,Tarakan,11467
+122,Pariaman,8359
+123,Pariaman,9437
+124,Bitung,6865
+125,Medan,8921
+126,Kota Administrasi Jakarta Barat,13596
+127,Singkawang,9769
+128,Payakumbuh,14908
+129,Pangkalpinang,11869
+130,Bekasi,13555
+131,Kotamobagu,7988
+132,Langsa,7092
+133,Banjar,14858
+134,Purwokerto,5666
+135,Tanjungpinang,5435
+136,Pontianak,9805
+137,Palangkaraya,14025
+138,Prabumulih,9595
+139,Malang,12527
+140,Sibolga,9727
+141,Bitung,9649
+142,Palangkaraya,8436
+143,Meulaboh,10939
+144,Palembang,9977
+145,Pontianak,6331
+146,Bima,11117
+147,Cirebon,14633
+148,Manado,10248
+149,Padangpanjang,8426
+150,Prabumulih,5471
+151,Kediri,12523
+152,Banjar,13892
+153,Tanjungbalai,11668
+154,Tomohon,10632
+155,Bengkulu,8378
+156,Prabumulih,9610
+157,Yogyakarta,12404
+158,Cimahi,7237
+159,Palangkaraya,11280
+160,Pekanbaru,12898
+161,Tasikmalaya,5152
+162,Bogor,7710
+163,Jambi,12965
+164,Ternate,7486
+165,Kota Administrasi Jakarta Barat,14786
+166,Langsa,14034
+167,Gorontalo,12880
+168,Payakumbuh,10814
+169,Banjar,5795
+170,Lubuklinggau,13280
+171,Bengkulu,7849
+172,Tebingtinggi,9603
+173,Pekalongan,13080
+174,Binjai,7263
+175,Yogyakarta,14516
+176,Malang,13445
+177,Serang,13885
+178,Tanjungbalai,5231
+179,Meulaboh,12870
+180,Tasikmalaya,12469
+181,Salatiga,10715
+182,Sawahlunto,9364
+183,Jambi,7420
+184,Kota Administrasi Jakarta Utara,5778
+185,Pangkalpinang,13908
+186,Banjarmasin,8440
+187,Tasikmalaya,9091
+188,Pekalongan,7402
+189,Sungai Penuh,8967
+190,Tangerang,7539
+191,Meulaboh,10272
+192,Tidore Kepulauan,6308
+193,Jayapura,12828
+194,Solok,7620
+195,Prabumulih,5432
+196,Lhokseumawe,5177
+197,Sibolga,12514
+198,Serang,7547
+199,Jambi,10250
+200,Subulussalam,8282
+201,Prabumulih,8160
+202,Singkawang,7134
+203,Sibolga,13215
+204,Bukittinggi,11556
+205,Tidore Kepulauan,10198
+206,Bau-Bau,10835
+207,Ambon,12687
+208,Salatiga,9336
+209,Pariaman,6583
+210,Gorontalo,13527
+211,Tasikmalaya,13006
+212,Pematangsiantar,13126
+213,Serang,9883
+214,Bau-Bau,7229
+215,Samarinda,5283
+216,Prabumulih,7252
+217,Parepare,6839
+218,Metro,6832
+219,Kotamobagu,6438
+220,Bima,10346
+221,Serang,8021
+222,Tidore Kepulauan,14417
+223,Samarinda,6590
+224,Medan,9374
+225,Sorong,10824
+226,Bontang,9760
+227,Binjai,13214
+228,Mojokerto,6521
+229,Probolinggo,9020
+230,Tual,8497
+231,Samarinda,7665
+232,Pasuruan,10710
+233,Ternate,5170
+234,Yogyakarta,11145
+235,Tegal,12931
+236,Madiun,12368
+237,Tanjungpinang,5763
+238,Palembang,8972
+239,Tanjungpinang,10656
+240,Cirebon,10001
+241,Meulaboh,6779
+242,Metro,10656
+243,Metro,12286
+244,Batam,8682
+245,Tebingtinggi,8589
+246,Banjarmasin,8711
+247,Pangkalpinang,9844
+248,Makassar,5677
+249,Kota Administrasi Jakarta Pusat,13648
+250,Denpasar,12788
+251,Pematangsiantar,13532
+252,Mataram,7087
+253,Prabumulih,13816
+254,Langsa,6266
+255,Pematangsiantar,5465
+256,Palangkaraya,6042
+257,Denpasar,12704
+258,Kediri,10625
+259,Padang Sidempuan,11786
+260,Sungai Penuh,11526
+261,Cimahi,5432
+262,Meulaboh,8368
+263,Mataram,8384
+264,Cirebon,12214
+265,Tangerang,11484
+266,Lubuklinggau,9955
+267,Cilegon,9616
+268,Palembang,14078
+269,Tual,11558
+270,Tangerang Selatan,9655
+271,Mataram,14824
+272,Malang,11433
+273,Ambon,9651
+274,Payakumbuh,11040
+275,Metro,5677
+276,Yogyakarta,13171
+277,Tarakan,8237
+278,Sabang,7801
+279,Sawahlunto,11226
+280,Kotamobagu,6763
+281,Bau-Bau,9533
+282,Purwokerto,10556
+283,Blitar,7314
+284,Surakarta,12256
+285,Sibolga,11536
+286,Makassar,6130
+287,Tarakan,5566
+288,Tangerang,11483
+289,Salatiga,6822
+290,Bima,11236
+291,Kupang,7412
+292,Makassar,14042
+293,Pontianak,14214
+294,Parepare,10772
+295,Jambi,8030
+296,Banda Aceh,6016
+297,Kota Administrasi Jakarta Selatan,9796
+298,Kupang,8363
+299,Bontang,11362
+300,Batam,8632
+301,Yogyakarta,10277
+302,Denpasar,8959
+303,Tarakan,9484
+304,Bitung,5355
+305,Padangpanjang,7521
+306,Bau-Bau,11996
+307,Bontang,7709
+308,Kupang,11727
+309,Surabaya,13763
+310,Salatiga,5525
+311,Balikpapan,7085
+312,Pangkalpinang,6308
+313,Palangkaraya,9608
+314,Jambi,7219
+315,Semarang,12387
+316,Metro,5212
+317,Lubuklinggau,12343
+318,Meulaboh,6676
+319,Singkawang,11143
+320,Pariaman,6250
+321,Palu,5315
+322,Kupang,11757
+323,Bima,6027
+324,Pasuruan,11182
+325,Cirebon,14064
+326,Blitar,13115
+327,Tasikmalaya,7913
+328,Pontianak,7549
+329,Malang,6491
+330,Tegal,6128
+331,Kotamobagu,7061
+332,Dumai,7853
+333,Tegal,6498
+334,Samarinda,5875
+335,Banda Aceh,11244
+336,Tangerang Selatan,13177
+337,Pagaralam,8906
+338,Meulaboh,8643
+339,Kotamobagu,11148
+340,Payakumbuh,10916
+341,Pematangsiantar,8266
+342,Kota Administrasi Jakarta Utara,7499
+343,Tanjungpinang,13308
+344,Pematangsiantar,11368
+345,Bau-Bau,6013
+346,Padangpanjang,6223
+347,Solok,10614
+348,Palopo,6096
+349,Manado,11926
+350,Tanjungbalai,13102
+351,Ternate,12230
+352,Banjarmasin,5579
+353,Bogor,7742
+354,Blitar,14767
+355,Sukabumi,6512
+356,Binjai,5964
+357,Palu,7664
+358,Bekasi,5538
+359,Palangkaraya,12984
+360,Probolinggo,6120
+361,Tegal,12131
+362,Pariaman,6051
+363,Singkawang,7656
+364,Subulussalam,6369
+365,Pagaralam,5009
+366,Tual,5537
+367,Blitar,10388
+368,Binjai,10331
+369,Madiun,12808
+370,Lubuklinggau,12211
+371,Depok,12465
+372,Banjarbaru,8170
+373,Kota Administrasi Jakarta Pusat,5093
+374,Salatiga,14340
+375,Tidore Kepulauan,13183
+376,Tangerang Selatan,10621
+377,Kota Administrasi Jakarta Timur,11460
+378,Palembang,7212
+379,Probolinggo,9728
+380,Banjar,13245
+381,Banda Aceh,13145
+382,Payakumbuh,10771
+383,Pekalongan,13025
+384,Tebingtinggi,12436
+385,Batam,9351
+386,Denpasar,6748
+387,Banjarbaru,8872
+388,Tarakan,5783
+389,Bandar Lampung,5767
+390,Sibolga,9139
+391,Cimahi,14797
+392,Sorong,14482
+393,Tanjungpinang,11198
+394,Denpasar,7660
+395,Jambi,9019
+396,Probolinggo,8024
+397,Lhokseumawe,11892
+398,Kediri,9796
+399,Tegal,10360
+400,Padang Sidempuan,14593
+401,Samarinda,7640
+402,Kota Administrasi Jakarta Selatan,8065
+403,Singkawang,14946
+404,Bandung,12773
+405,Payakumbuh,5294
+406,Pariaman,9897
+407,Kota Administrasi Jakarta Timur,13172
+408,Tasikmalaya,8610
+409,Semarang,8542
+410,Sukabumi,14281
+411,Manado,9374
+412,Tanjungpinang,14808
+413,Ambon,5363
+414,Bogor,12901
+415,Tual,14331
+416,Manado,14670
+417,Kota Administrasi Jakarta Timur,8317
+418,Pagaralam,7628
+419,Padang Sidempuan,12439
+420,Dumai,8367
+421,Banda Aceh,6331
+422,Jayapura,9326
+423,Lubuklinggau,9025
+424,Depok,6688
+425,Semarang,13658
+426,Pangkalpinang,14628
+427,Meulaboh,6568
+428,Cirebon,7189
+429,Sorong,12230
+430,Malang,13670
+431,Pekanbaru,7221
+432,Purwokerto,8429
+433,Kota Administrasi Jakarta Timur,6971
+434,Lhokseumawe,5631
+435,Sibolga,14564
+436,Purwokerto,14003
+437,Surabaya,9067
+438,Padangpanjang,6870
+439,Subulussalam,11638
+440,Padang Sidempuan,14671
+441,Banda Aceh,5749
+442,Payakumbuh,9398
+443,Subulussalam,11015
+444,Padang Sidempuan,9098
+445,Kotamobagu,14060
+446,Tebingtinggi,11376
+447,Pariaman,6422
+448,Kendari,7631
+449,Bogor,7486
+450,Banjarbaru,10842
+451,Yogyakarta,5429
+452,Tegal,10505
+453,Probolinggo,9184
+454,Sukabumi,12706
+455,Binjai,10254
+456,Sorong,7542
+457,Sungai Penuh,7669
+458,Cilegon,11167
+459,Kota Administrasi Jakarta Barat,8494
+460,Cirebon,9177
+461,Depok,5603
+462,Solok,9415
+463,Prabumulih,8878
+464,Banda Aceh,9228
+465,Sibolga,11317
+466,Tanjungpinang,12411
+467,Madiun,8729
+468,Tomohon,11831
+469,Tarakan,8119
+470,Mataram,14313
+471,Subulussalam,13664
+472,Pontianak,14614
+473,Denpasar,7979
+474,Batam,6818
+475,Palembang,12633
+476,Sorong,11001
+477,Palopo,14435
+478,Sukabumi,6376
+479,Batu,11651
+480,Padang,7745
+481,Tangerang Selatan,9834
+482,Bandar Lampung,10650
+483,Bekasi,13292
+484,Pariaman,11961
+485,Kota Administrasi Jakarta Pusat,12893
+486,Pangkalpinang,6228
+487,Cirebon,7382
+488,Palopo,14990
+489,Mataram,9926
+490,Kota Administrasi Jakarta Selatan,13205
+491,Manado,12160
+492,Padang Sidempuan,6081
+493,Serang,10585
+494,Bontang,6865
+495,Bandar Lampung,8881
+496,Palu,12173
+497,Manado,10840
+498,Sibolga,7145
+499,Pekalongan,11979
+500,Mataram,7559
+501,Palangkaraya,9827
+502,Metro,11872
+503,Payakumbuh,6915
+504,Semarang,12475
+505,Kediri,8675
+506,Banjar,10598
+507,Bekasi,5950
+508,Tangerang,6156
+509,Sabang,12139
+510,Payakumbuh,8012
+511,Kota Administrasi Jakarta Timur,14940
+512,Bandung,8638
+513,Tarakan,6679
+514,Dumai,12955
+515,Palembang,7638
+516,Palopo,13500
+517,Kendari,13060
+518,Dumai,8700
+519,Sorong,5443
+520,Kotamobagu,13924
+521,Gorontalo,5315
+522,Prabumulih,8353
+523,Probolinggo,12742
+524,Banjar,9488
+525,Yogyakarta,6472
+526,Padangpanjang,10492
+527,Singkawang,11184
+528,Denpasar,7759
+529,Binjai,7948
+530,Makassar,7255
+531,Lhokseumawe,12504
+532,Pematangsiantar,8155
+533,Parepare,10597
+534,Sawahlunto,8535
+535,Serang,13993
+536,Purwokerto,6785
+537,Parepare,14331
+538,Yogyakarta,14541
+539,Padang,9258
+540,Bekasi,6603
+541,Balikpapan,13373
+542,Langsa,8171
+543,Surakarta,12587
+544,Payakumbuh,8468
+545,Tangerang,9817
+546,Banjarbaru,9273
+547,Bandung,13877
+548,Blitar,12611
+549,Bogor,8957
+550,Pagaralam,8629
+551,Sawahlunto,10381
+552,Kendari,7481
+553,Magelang,8414
+554,Sawahlunto,6923
+555,Madiun,7130
+556,Pekanbaru,11179
+557,Jambi,7525
+558,Malang,6953
+559,Metro,5932
+560,Magelang,9555
+561,Metro,14346
+562,Gorontalo,10306
+563,Kota Administrasi Jakarta Timur,8464
+564,Sorong,6960
+565,Padangpanjang,8035
+566,Banjar,13927
+567,Parepare,11774
+568,Kupang,9733
+569,Pekanbaru,11094
+570,Gorontalo,6736
+571,Kota Administrasi Jakarta Pusat,9422
+572,Meulaboh,11463
+573,Samarinda,11791
+574,Ambon,12823
+575,Ternate,14372
+576,Tangerang Selatan,8490
+577,Depok,13440
+578,Bandar Lampung,8296
+579,Cilegon,8322
+580,Payakumbuh,5736
+581,Ternate,10562
+582,Sawahlunto,11633
+583,Pangkalpinang,14088
+584,Jayapura,8166
+585,Tual,11942
+586,Tangerang,9741
+587,Ambon,13836
+588,Gorontalo,7644
+589,Lubuklinggau,11570
+590,Medan,8427
+591,Cilegon,8065
+592,Parepare,13765
+593,Solok,7653
+594,Pekanbaru,12462
+595,Salatiga,5059
+596,Medan,11025
+597,Madiun,5839
+598,Pagaralam,10024
+599,Batu,10301
+600,Probolinggo,6652
+601,Padang,9458
+602,Pasuruan,9483
+603,Singkawang,5257
+604,Tual,14287
+605,Payakumbuh,9513
+606,Bitung,6224
+607,Blitar,5640
+608,Bukittinggi,10670
+609,Banda Aceh,13727
+610,Samarinda,10484
+611,Padangpanjang,8820
+612,Singkawang,8285
+613,Tebingtinggi,7999
+614,Tarakan,10233
+615,Palangkaraya,5931
+616,Singkawang,8626
+617,Prabumulih,6869
+618,Batu,12821
+619,Prabumulih,13752
+620,Kendari,5179
+621,Banjarmasin,6993
+622,Lhokseumawe,6460
+623,Sibolga,9122
+624,Palopo,11917
+625,Bandar Lampung,14333
+626,Pekanbaru,5473
+627,Lhokseumawe,6620
+628,Mataram,13479
+629,Palangkaraya,9645
+630,Kota Administrasi Jakarta Timur,11568
+631,Tidore Kepulauan,13485
+632,Banjarbaru,11105
+633,Tegal,14290
+634,Kupang,13164
+635,Banjarmasin,14792
+636,Surabaya,13801
+637,Purwokerto,7352
+638,Ternate,12738
+639,Subulussalam,8641
+640,Payakumbuh,7884
+641,Kendari,5556
+642,Bima,11766
+643,Pariaman,5757
+644,Sukabumi,7385
+645,Banjar,9819
+646,Bau-Bau,13735
+647,Kota Administrasi Jakarta Timur,5761
+648,Medan,9638
+649,Tegal,14168
+650,Tomohon,11216
+651,Pematangsiantar,10515
+652,Tegal,14778
+653,Tanjungpinang,9527
+654,Manado,9811
+655,Pagaralam,10840
+656,Tanjungbalai,5074
+657,Kediri,6653
+658,Palopo,7812
+659,Salatiga,8686
+660,Madiun,8709
+661,Kota Administrasi Jakarta Timur,7466
+662,Sungai Penuh,5068
+663,Kota Administrasi Jakarta Barat,10856
+664,Tidore Kepulauan,14998
+665,Sukabumi,14160
+666,Sawahlunto,9916
+667,Bau-Bau,11510
+668,Palopo,7790
+669,Serang,8896
+670,Pariaman,5327
+671,Bima,8502
+672,Tual,14480
+673,Sawahlunto,13451
+674,Solok,8060
+675,Sibolga,9365
+676,Bontang,6237
+677,Tanjungpinang,8909
+678,Jayapura,6315
+679,Mataram,11969
+680,Bima,13313
+681,Ambon,13680
+682,Singkawang,5431
+683,Lhokseumawe,5648
+684,Manado,8949
+685,Tebingtinggi,6065
+686,Tarakan,14751
+687,Ternate,8971
+688,Kotamobagu,8767
+689,Pematangsiantar,8593
+690,Banda Aceh,6274
+691,Pariaman,7011
+692,Tangerang Selatan,5275
+693,Pariaman,5062
+694,Denpasar,11647
+695,Banjarmasin,8356
+696,Bontang,14724
+697,Madiun,7552
+698,Bau-Bau,10750
+699,Surabaya,13416
+700,Pangkalpinang,13198
+701,Banjarbaru,6272
+702,Pontianak,13687
+703,Jambi,10613
+704,Pasuruan,10697
+705,Meulaboh,10634
+706,Tarakan,5515
+707,Surabaya,7442
+708,Tarakan,10842
+709,Bitung,5929
+710,Banda Aceh,14316
+711,Bogor,13707
+712,Dumai,13742
+713,Sawahlunto,13408
+714,Tebingtinggi,13944
+715,Ternate,13174
+716,Pekalongan,6093
+717,Sabang,8936
+718,Balikpapan,8529
+719,Tual,14760
+720,Pangkalpinang,12996
+721,Banjarbaru,10709
+722,Tangerang Selatan,6063
+723,Banda Aceh,5044
+724,Surakarta,12048
+725,Singkawang,11892
+726,Manado,5254
+727,Sungai Penuh,13088
+728,Kota Administrasi Jakarta Barat,6483
+729,Mojokerto,7851
+730,Pagaralam,12617
+731,Kota Administrasi Jakarta Utara,9777
+732,Batam,11896
+733,Payakumbuh,9721
+734,Semarang,5384
+735,Lhokseumawe,13195
+736,Surabaya,12761
+737,Pangkalpinang,7619
+738,Gorontalo,7253
+739,Kota Administrasi Jakarta Selatan,6378
+740,Lubuklinggau,5064
+741,Mojokerto,9018
+742,Pagaralam,7187
+743,Sungai Penuh,8630
+744,Tual,13184
+745,Makassar,7111
+746,Sibolga,8471
+747,Sibolga,11560
+748,Batam,13982
+749,Kupang,11491
+750,Balikpapan,7138
+751,Balikpapan,13871
+752,Tanjungpinang,5792
+753,Bontang,5624
+754,Palopo,12017
+755,Kota Administrasi Jakarta Utara,8913
+756,Kupang,9356
+757,Kota Administrasi Jakarta Selatan,8862
+758,Cirebon,6719
+759,Gorontalo,11846
+760,Bengkulu,14658
+761,Bontang,5975
+762,Bandar Lampung,14915
+763,Bengkulu,8993
+764,Pekanbaru,9525
+765,Payakumbuh,11152
+766,Purwokerto,12282
+767,Madiun,6929
+768,Jambi,12097
+769,Surabaya,13293
+770,Prabumulih,8216
+771,Cirebon,11367
+772,Sibolga,6975
+773,Kotamobagu,14040
+774,Batu,8977
+775,Sungai Penuh,5489
+776,Denpasar,9985
+777,Balikpapan,13614
+778,Parepare,12051
+779,Kupang,6111
+780,Kota Administrasi Jakarta Utara,6272
+781,Bandar Lampung,10919
+782,Kota Administrasi Jakarta Timur,12907
+783,Binjai,8891
+784,Surabaya,5832
+785,Banda Aceh,11350
+786,Palu,6523
+787,Tangerang,9789
+788,Serang,5780
+789,Magelang,6340
+790,Padang,11898
+791,Salatiga,7331
+792,Bekasi,6056
+793,Medan,8327
+794,Bandung,8500
+795,Bukittinggi,7560
+796,Batam,7713
+797,Cirebon,14388
+798,Tual,8026
+799,Pagaralam,14439
+800,Mojokerto,14010
+801,Surabaya,12976
+802,Manado,11681
+803,Sukabumi,9334
+804,Bogor,9519
+805,Batu,8047
+806,Kota Administrasi Jakarta Barat,13711
+807,Sabang,7960
+808,Depok,9129
+809,Pekanbaru,5575
+810,Cilegon,8380
+811,Tangerang Selatan,12389
+812,Balikpapan,13439
+813,Prabumulih,6638
+814,Kota Administrasi Jakarta Selatan,12743
+815,Bau-Bau,9736
+816,Lhokseumawe,6522
+817,Lhokseumawe,6558
+818,Bandung,11246
+819,Tanjungbalai,11368
+820,Palu,7259
+821,Ambon,14562
+822,Tebingtinggi,5420
+823,Purwokerto,6100
+824,Cirebon,7291
+825,Manado,7848
+826,Tangerang Selatan,11472
+827,Tegal,12651
+828,Bekasi,11238
+829,Palu,12970
+830,Padangpanjang,12271
+831,Pasuruan,12691
+832,Kediri,7138
+833,Depok,8932
+834,Banjar,14754
+835,Blitar,8085
+836,Tarakan,13760
+837,Surakarta,13734
+838,Sabang,12622
+839,Palangkaraya,12499
+840,Batam,10183
+841,Mataram,6698
+842,Surabaya,7155
+843,Bima,11648
+844,Pekalongan,12296
+845,Cilegon,14253
+846,Bima,12909
+847,Bitung,6054
+848,Malang,12736
+849,Probolinggo,6657
+850,Ternate,13869
+851,Tasikmalaya,7663
+852,Jambi,14349
+853,Pariaman,5022
+854,Sukabumi,6977
+855,Pematangsiantar,13162
+856,Sabang,5123
+857,Medan,6512
+858,Kota Administrasi Jakarta Pusat,12322
+859,Magelang,6651
+860,Gorontalo,10019
+861,Kota Administrasi Jakarta Timur,5379
+862,Solok,11659
+863,Manado,7375
+864,Tangerang Selatan,5316
+865,Makassar,8888
+866,Kupang,6294
+867,Kupang,7015
+868,Tomohon,10092
+869,Madiun,10967
+870,Banjarmasin,11977
+871,Prabumulih,12111
+872,Tegal,13468
+873,Tebingtinggi,6913
+874,Samarinda,14518
+875,Surabaya,13043
+876,Jambi,5401
+877,Gorontalo,13805
+878,Tomohon,14450
+879,Palopo,14320
+880,Sorong,12653
+881,Tangerang Selatan,11060
+882,Tarakan,11142
+883,Surakarta,14465
+884,Yogyakarta,6814
+885,Palangkaraya,13412
+886,Pasuruan,6466
+887,Cilegon,14647
+888,Bengkulu,14736
+889,Lubuklinggau,9185
+890,Prabumulih,10454
+891,Padang Sidempuan,12852
+892,Jambi,10302
+893,Palembang,10950
+894,Banjarmasin,14948
+895,Dumai,10705
+896,Salatiga,6068
+897,Sabang,12056
+898,Depok,8199
+899,Parepare,12812
+900,Tangerang,12355
+901,Solok,5296
+902,Bogor,6869
+903,Palopo,8820
+904,Batu,12631
+905,Pasuruan,8965
+906,Denpasar,9666
+907,Cimahi,13481
+908,Kota Administrasi Jakarta Barat,10398
+909,Pariaman,7267
+910,Banjarmasin,6554
+911,Bengkulu,12654
+912,Medan,14420
+913,Bima,8910
+914,Kota Administrasi Jakarta Utara,12465
+915,Bontang,6003
+916,Tasikmalaya,10923
+917,Parepare,8910
+918,Tual,6801
+919,Cirebon,11193
+920,Denpasar,12372
+921,Tidore Kepulauan,6262
+922,Tomohon,6504
+923,Bandung,14718
+924,Binjai,12575
+925,Pematangsiantar,8166
+926,Prabumulih,8494
+927,Jayapura,5410
+928,Tarakan,8853
+929,Dumai,9775
+930,Gorontalo,7831
+931,Medan,6889
+932,Metro,5822
+933,Banjarbaru,9040
+934,Tangerang,10263
+935,Tarakan,14034
+936,Tasikmalaya,9176
+937,Magelang,7031
+938,Pontianak,6181
+939,Pangkalpinang,8229
+940,Tangerang,10180
+941,Pekalongan,6499
+942,Bogor,11783
+943,Prabumulih,9491
+944,Padangpanjang,10020
+945,Purwokerto,12453
+946,Tanjungbalai,11411
+947,Parepare,10739
+948,Kendari,5824
+949,Pangkalpinang,13885
+950,Surakarta,5349
+951,Banjarbaru,7884
+952,Probolinggo,5773
+953,Langsa,6271
+954,Mojokerto,9306
+955,Palu,10560
+956,Parepare,10632
+957,Cilegon,7828
+958,Madiun,5015
+959,Kota Administrasi Jakarta Barat,7540
+960,Bima,8198
+961,Kota Administrasi Jakarta Pusat,14430
+962,Langsa,9982
+963,Tidore Kepulauan,8586
+964,Bogor,10471
+965,Makassar,14813
+966,Kediri,7718
+967,Palembang,6546
+968,Mojokerto,13198
+969,Padang,8449
+970,Palangkaraya,9378
+971,Tebingtinggi,9779
+972,Tangerang,9746
+973,Tangerang,11152
+974,Palopo,8502
+975,Batam,14944
+976,Depok,10254
+977,Sabang,12480
+978,Pekanbaru,12959
+979,Balikpapan,9778
+980,Jambi,13977
+981,Sorong,6014
+982,Mataram,7017
+983,Cimahi,12075
+984,Sawahlunto,10776
+985,Cimahi,9489
+986,Kota Administrasi Jakarta Pusat,12483
+987,Pangkalpinang,6551
+988,Bau-Bau,11042
+989,Binjai,11965
+990,Bontang,7854
+991,Bau-Bau,5782
+992,Pematangsiantar,6716
+993,Banjar,14209
+994,Lubuklinggau,7070
+995,Langsa,7163
+996,Surakarta,12732
+997,Purwokerto,8796
+998,Tanjungbalai,10615
+999,Sorong,5318
+1000,Jambi,6753

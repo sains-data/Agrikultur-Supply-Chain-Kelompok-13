@@ -1,0 +1,1001 @@
+farmer_id,name,location,farm_size_ha
+1,Elvina Prasasta,Purwokerto,1.77
+2,Cut Tantri Hakim,Sukabumi,3.11
+3,Indah Gunawan,Tanjungbalai,4.49
+4,"Hani Santoso, S.E.I",Banda Aceh,1.94
+5,"Hj. Talia Widodo, S.Kom",Medan,1.98
+6,"Daniswara Handayani, S.I.Kom",Banjar,4.63
+7,Cut Restu Kuswoyo,Parepare,1.98
+8,"drg. Lanang Wasita, M.M.",Tomohon,3.28
+9,H. Rama Puspita,Singkawang,2.2
+10,Cahyanto Maheswara,Manado,4.23
+11,Sakura Mangunsong,Medan,4.89
+12,"Lala Halim, S.H.",Sabang,2.62
+13,Luwar Siregar,Kota Administrasi Jakarta Timur,0.58
+14,Hartana Utami,Sawahlunto,3.48
+15,Salimah Kuswoyo,Langsa,4.32
+16,Salwa Uwais,Payakumbuh,3.97
+17,Paulin Wastuti,Gorontalo,0.83
+18,"Eli Hidayanto, M.Farm",Magelang,0.94
+19,Hasim Kusumo,Bau-Bau,1.22
+20,Vanesa Nainggolan,Cimahi,0.68
+21,"Jayadi Uyainah, S.I.Kom",Padangpanjang,1.76
+22,"Zelaya Prasasta, M.Ak",Semarang,4.2
+23,"Gading Siregar, M.Kom.",Singkawang,1.44
+24,Prayogo Widiastuti,Batam,2.96
+25,Victoria Irawan,Payakumbuh,4.55
+26,Rahmi Januar,Cimahi,2.16
+27,Hadi Kurniawan,Lhokseumawe,3.61
+28,"Ibun Lestari, S.E.I",Solok,2.6
+29,Wulan Wijayanti,Balikpapan,4.89
+30,Jasmin Wacana,Binjai,4.09
+31,"Shania Saragih, S.IP",Payakumbuh,0.91
+32,Usyi Suwarno,Pariaman,2.09
+33,Sutan Sakti Pradipta,Lhokseumawe,3.6
+34,Kenari Prasetya,Pekanbaru,2.21
+35,"Ir. Almira Wijayanti, S.Psi",Dumai,0.71
+36,"Mulya Prasetya, M.M.",Mataram,4.93
+37,Banara Halim,Padangpanjang,3.15
+38,"Embuh Putra, S.Sos",Mojokerto,4.67
+39,Dr. Raisa Hutagalung,Banjarbaru,3.25
+40,Sari Halimah,Bukittinggi,2.2
+41,Drs. Ira Nashiruddin,Bitung,2.79
+42,"Dr. Gilda Pradana, M.Pd",Tarakan,3.46
+43,Edi Adriansyah,Langsa,3.23
+44,Capa Palastri,Sorong,3.29
+45,"Yuni Budiman, S.Gz",Tasikmalaya,2.81
+46,Hari Saptono,Dumai,2.06
+47,"Drs. Pandu Salahudin, S.I.Kom",Surakarta,3.84
+48,Dina Narpati,Pariaman,3.03
+49,"Drs. Julia Utami, S.Psi",Bandar Lampung,2.95
+50,Purwadi Mandala,Batu,2.75
+51,"Karimah Januar, S.H.",Tarakan,1.45
+52,Tami Dongoran,Tangerang Selatan,0.9
+53,Niyaga Halimah,Palangkaraya,3.06
+54,"dr. Diah Budiyanto, M.Ak",Balikpapan,4.95
+55,R.M. Nasab Anggriawan,Tomohon,4.26
+56,Dwi Hassanah,Singkawang,1.32
+57,"Puti Ophelia Mandasari, M.Ak",Kediri,1.95
+58,Galih Hutasoit,Solok,0.58
+59,Restu Suwarno,Kota Administrasi Jakarta Timur,3.89
+60,Ir. Lalita Wasita,Metro,3.0
+61,Radika Tarihoran,Sawahlunto,0.53
+62,Tgk. Jamal Dongoran,Kupang,2.49
+63,"Tantri Yolanda, M.Farm",Kotamobagu,2.22
+64,Okto Fujiati,Kota Administrasi Jakarta Pusat,2.78
+65,"KH. Pranawa Anggriawan, M.TI.",Serang,3.61
+66,"drg. Hasna Simanjuntak, S.T.",Tidore Kepulauan,4.19
+67,Raisa Yolanda,Magelang,1.7
+68,Syahrini Jailani,Bengkulu,3.78
+69,Hj. Ayu Nashiruddin,Sukabumi,3.87
+70,Anom Sihombing,Banjarbaru,4.36
+71,Tari Oktaviani,Banjar,1.18
+72,Dr. Sari Usamah,Probolinggo,0.58
+73,"T. Aris Adriansyah, M.M.",Bekasi,3.06
+74,Kartika Winarno,Ternate,2.24
+75,Dr. Hani Aryani,Sukabumi,1.63
+76,Uda Uwais,Padang,1.25
+77,Raditya Prayoga,Sibolga,3.62
+78,"Drs. Jabal Puspita, S.IP",Subulussalam,3.01
+79,Carub Budiyanto,Bontang,3.62
+80,"dr. Puput Hidayanto, S.Pt",Bekasi,4.99
+81,Oliva Putra,Kota Administrasi Jakarta Utara,3.82
+82,"KH. Prayitna Prastuti, S.Sos",Probolinggo,2.42
+83,Lukman Halimah,Tidore Kepulauan,4.88
+84,Cahyono Tarihoran,Probolinggo,1.35
+85,Jumari Napitupulu,Probolinggo,2.11
+86,Respati Sudiati,Subulussalam,0.64
+87,"Karta Wahyuni, S.Farm",Ternate,2.28
+88,Putri Hasanah,Bukittinggi,2.25
+89,Tgk. Laila Farida,Tegal,4.52
+90,Hj. Violet Sinaga,Pariaman,4.31
+91,"Hana Saefullah, S.Psi",Banjarbaru,3.51
+92,"Ilsa Kuswoyo, M.Pd",Kotamobagu,2.31
+93,Muhammad Lailasari,Kotamobagu,3.84
+94,"dr. Ulya Siregar, S.Pt",Langsa,4.84
+95,Tami Yuliarti,Lubuklinggau,3.05
+96,"Silvia Prastuti, S.H.",Kendari,3.99
+97,Cindy Mahendra,Bima,2.31
+98,Wakiman Wulandari,Bengkulu,4.62
+99,"Aisyah Putra, S.E.I",Bandung,4.14
+100,Vega Pranowo,Kota Administrasi Jakarta Barat,4.06
+101,R.A. Halima Handayani,Balikpapan,4.51
+102,"Hj. Cici Prasetya, S.Pd",Jayapura,2.16
+103,"Rini Simanjuntak, S.Sos",Yogyakarta,0.82
+104,Wasis Anggriawan,Padang,4.16
+105,Siska Saptono,Serang,3.9
+106,"Ir. Rahayu Kuswoyo, M.Ak",Sawahlunto,4.76
+107,"Dr. Rahmi Winarno, M.Kom.",Jambi,4.3
+108,Iriana Prasetya,Tanjungbalai,2.4
+109,Wulan Hutagalung,Jayapura,3.43
+110,Rika Mayasari,Serang,2.16
+111,Anastasia Rahmawati,Salatiga,1.82
+112,Caraka Sudiati,Parepare,3.92
+113,Raisa Rahmawati,Bima,2.28
+114,Yani Kusumo,Lubuklinggau,1.39
+115,Anastasia Setiawan,Padangpanjang,1.62
+116,Warta Nainggolan,Subulussalam,4.43
+117,Cawisono Anggriawan,Kupang,1.14
+118,"Bancar Purnawati, S.H.",Magelang,2.16
+119,Rudi Mandala,Tual,3.52
+120,Siti Saptono,Pagaralam,2.94
+121,"Rafi Rahmawati, S.I.Kom",Pagaralam,3.73
+122,Ratna Safitri,Kediri,1.49
+123,Daliman Puspita,Metro,3.46
+124,"Gaduh Mayasari, M.Ak",Pekanbaru,1.59
+125,Vicky Thamrin,Bukittinggi,1.45
+126,Malika Haryanto,Malang,1.24
+127,"Puti Mila Sihotang, S.Gz",Pagaralam,0.95
+128,"Padma Jailani, M.Ak",Cilegon,3.32
+129,Dr. Eva Andriani,Tegal,4.51
+130,"Raden Susanti, S.Psi",Purwokerto,1.75
+131,Irnanto Wasita,Mataram,0.54
+132,"Hartaka Sihotang, M.Farm",Sawahlunto,1.41
+133,T. Emin Thamrin,Magelang,2.95
+134,Kenzie Mayasari,Surakarta,3.5
+135,Prasetyo Thamrin,Tangerang,1.1
+136,"Eva Winarsih, M.M.",Meulaboh,3.2
+137,T. Caraka Mansur,Tarakan,0.84
+138,Patricia Simbolon,Ambon,2.03
+139,Ani Sihombing,Palopo,3.62
+140,Sabrina Nuraini,Mataram,1.64
+141,Drs. Ulya Kusumo,Kupang,2.43
+142,Puspa Iswahyudi,Banjarmasin,3.45
+143,Tgk. Himawan Uwais,Banda Aceh,2.4
+144,"Gamani Winarsih, M.M.",Sorong,4.4
+145,Jefri Mangunsong,Solok,2.67
+146,Harsaya Purwanti,Tangerang Selatan,2.52
+147,"Sari Tamba, M.Farm",Sorong,2.65
+148,Rosman Utama,Sibolga,2.37
+149,"Tasnim Haryanto, S.E.I",Palopo,3.28
+150,Vanya Zulkarnain,Bukittinggi,1.08
+151,Tgk. Pangestu Suwarno,Makassar,2.48
+152,"Dodo Sihombing, S.Gz",Ternate,3.67
+153,drg. Alambana Situmorang,Samarinda,1.37
+154,dr. Hasna Thamrin,Jayapura,4.43
+155,Dr. Elisa Dongoran,Serang,1.48
+156,Ajimin Pertiwi,Tidore Kepulauan,0.77
+157,Gasti Putra,Makassar,1.84
+158,"Sutan Edi Firgantoro, S.Farm",Samarinda,1.87
+159,Opung Pratama,Sawahlunto,3.28
+160,Najib Hariyah,Sukabumi,4.35
+161,Gangsar Permadi,Salatiga,4.46
+162,Panji Rajasa,Kota Administrasi Jakarta Selatan,2.98
+163,Tgk. Kamila Purnawati,Dumai,4.23
+164,Shakila Najmudin,Banjarbaru,0.58
+165,Hasna Laksita,Binjai,4.52
+166,Kani Nuraini,Bandung,4.99
+167,Abyasa Uyainah,Balikpapan,3.78
+168,Reksa Kuswoyo,Batu,4.94
+169,Martana Sudiati,Mataram,2.21
+170,Viktor Irawan,Kota Administrasi Jakarta Pusat,3.19
+171,Rahmi Melani,Bandar Lampung,4.51
+172,"Hj. Winda Sihombing, S.I.Kom",Blitar,1.29
+173,Ika Padmasari,Lhokseumawe,2.24
+174,"Dt. Gaduh Halimah, S.IP",Medan,4.33
+175,Karja Ramadan,Kota Administrasi Jakarta Timur,4.45
+176,dr. Kardi Nugroho,Jayapura,3.27
+177,"Gilda Widodo, M.Pd",Subulussalam,2.89
+178,"Melinda Budiyanto, M.M.",Padang Sidempuan,0.81
+179,dr. Bahuwirya Safitri,Sabang,1.97
+180,"Adikara Maryati, S.Sos",Sabang,4.93
+181,Prayogo Hassanah,Cirebon,1.2
+182,Daruna Pranowo,Batam,2.66
+183,Novi Budiman,Probolinggo,2.35
+184,Indah Habibi,Padang Sidempuan,1.03
+185,Dartono Kuswoyo,Samarinda,2.04
+186,Bagas Novitasari,Bandar Lampung,1.29
+187,"Dr. Ana Permadi, S.Kom",Payakumbuh,2.35
+188,"Jane Purnawati, S.Pd",Cimahi,3.04
+189,"Kawaca Prastuti, M.Pd",Sorong,2.84
+190,"R. Bambang Namaga, S.IP",Sabang,4.22
+191,"Silvia Habibi, S.Kom",Bau-Bau,4.76
+192,Warta Puspita,Sorong,0.8
+193,"H. Gamanto Anggriawan, S.I.Kom",Bandung,4.94
+194,Kalim Hakim,Tanjungbalai,3.29
+195,Wirda Waluyo,Tangerang,3.91
+196,"Puti Elisa Anggraini, M.Kom.",Ambon,4.87
+197,Teguh Prasasta,Mataram,3.99
+198,Pia Iswahyudi,Sibolga,1.31
+199,"Drs. Vera Aryani, S.Ked",Parepare,2.03
+200,"Ir. Simon Maheswara, S.Sos",Pekanbaru,4.81
+201,Dian Usada,Palembang,1.93
+202,"Jaiman Agustina, S.Kom",Malang,4.08
+203,"Danuja Halimah, M.Kom.",Payakumbuh,1.19
+204,Kani Hasanah,Padang Sidempuan,1.35
+205,Cut Dina Agustina,Sukabumi,2.44
+206,"Tari Sinaga, S.IP",Bukittinggi,0.85
+207,Elma Saefullah,Prabumulih,1.16
+208,Kurnia Rajasa,Salatiga,2.89
+209,"R. Daryani Namaga, S.Pd",Tomohon,4.03
+210,Niyaga Utami,Lubuklinggau,4.29
+211,"Wani Prasetya, S.Kom",Cilegon,4.36
+212,Mahfud Firgantoro,Sungai Penuh,2.53
+213,Digdaya Prayoga,Manado,0.62
+214,Genta Utami,Cirebon,3.79
+215,"R.M. Prakosa Rahmawati, S.I.Kom",Tanjungpinang,4.71
+216,Niyaga Prasetya,Kotamobagu,2.52
+217,Nyoman Wastuti,Surakarta,1.01
+218,"Dr. Ciaobella Siregar, M.Kom.",Bontang,4.18
+219,"Karimah Purnawati, M.Ak",Gorontalo,1.85
+220,"Sarah Habibi, S.Pt",Parepare,4.2
+221,"Cemeti Kurniawan, S.Sos",Medan,2.42
+222,Belinda Zulaika,Palopo,1.13
+223,Kala Halimah,Pangkalpinang,1.59
+224,"Tgk. Elma Utami, M.M.",Lubuklinggau,3.85
+225,Muhammad Rahmawati,Kendari,1.49
+226,"Kasiran Yulianti, S.Kom",Pariaman,1.79
+227,Dimas Hariyah,Bitung,2.76
+228,Ana Nasyiah,Purwokerto,1.56
+229,"Rangga Rahimah, S.E.I",Pariaman,2.79
+230,Lurhur Padmasari,Salatiga,3.04
+231,"T. Tedi Winarsih, S.Pd",Sawahlunto,1.41
+232,"Winda Maheswara, S.T.",Kotamobagu,3.7
+233,Najwa Kuswandari,Metro,4.18
+234,Waluyo Rajasa,Bandar Lampung,1.15
+235,"Drs. Gatot Mustofa, M.Kom.",Kendari,2.95
+236,Rizki Tampubolon,Palu,2.34
+237,Asirwanda Riyanti,Palopo,2.49
+238,Dr. Jamalia Budiman,Lubuklinggau,4.85
+239,"Dt. Cayadi Wahyudin, S.Pt",Kota Administrasi Jakarta Pusat,3.67
+240,Gatra Purnawati,Tarakan,3.2
+241,Julia Pratama,Tangerang,3.11
+242,Safina Pertiwi,Bitung,2.49
+243,Yessi Kusmawati,Binjai,2.82
+244,Harsaya Pangestu,Surakarta,3.25
+245,Asman Santoso,Banda Aceh,3.88
+246,Vera Widodo,Lhokseumawe,0.53
+247,Prabowo Rahimah,Semarang,2.2
+248,"Hj. Eka Pertiwi, S.E.I",Jayapura,2.7
+249,Dr. Anita Sirait,Semarang,3.65
+250,Wirda Sirait,Pekalongan,3.93
+251,"Dt. Hartaka Padmasari, S.IP",Bandung,1.32
+252,Galak Laksmiwati,Tanjungpinang,2.04
+253,"Wulan Napitupulu, M.Pd",Bogor,1.75
+254,Gatra Tarihoran,Bogor,0.7
+255,"Drs. Septi Prayoga, S.Ked",Depok,2.08
+256,Dodo Ardianto,Samarinda,4.4
+257,"Drs. Lidya Melani, S.Pd",Tangerang,4.04
+258,"Dr. Usyi Pudjiastuti, S.E.",Pematangsiantar,4.11
+259,"Puti Laila Nasyidah, S.Pd",Sorong,3.57
+260,Radika Puspita,Madiun,3.09
+261,Jarwadi Anggraini,Surakarta,0.64
+262,Okta Purnawati,Bau-Bau,2.75
+263,"drg. Martani Gunawan, S.E.I",Sibolga,4.63
+264,"Puti Yulia Agustina, S.T.",Meulaboh,3.39
+265,Maya Sitorus,Ambon,4.91
+266,Hasim Mayasari,Denpasar,4.65
+267,Eli Prabowo,Bekasi,3.05
+268,Uda Widodo,Yogyakarta,1.41
+269,Ciaobella Anggraini,Medan,4.47
+270,dr. Tantri Saefullah,Binjai,4.38
+271,Dr. Raina Yulianti,Payakumbuh,2.21
+272,Wakiman Gunarto,Yogyakarta,1.28
+273,Padmi Wacana,Prabumulih,2.58
+274,Gandi Nasyidah,Pangkalpinang,1.95
+275,Ganda Halim,Serang,1.35
+276,Murti Siregar,Tidore Kepulauan,2.16
+277,Hj. Lili Kusmawati,Depok,0.75
+278,"Paris Suryono, S.Pt",Kota Administrasi Jakarta Utara,2.16
+279,"H. Salman Budiman, S.Farm",Banjar,1.25
+280,Eva Pertiwi,Palu,3.39
+281,"Puti Siti Siregar, S.E.",Bima,4.24
+282,Zulfa Hutapea,Makassar,2.46
+283,Almira Nuraini,Tomohon,2.38
+284,"Dr. Nabila Halimah, S.E.I",Sorong,1.41
+285,Purwa Hutagalung,Balikpapan,1.26
+286,"Drs. Faizah Natsir, S.H.",Lubuklinggau,4.91
+287,Yono Firmansyah,Pariaman,0.78
+288,Kiandra Safitri,Tidore Kepulauan,1.09
+289,Eluh Laksita,Kediri,3.3
+290,Bakiadi Mandala,Subulussalam,4.57
+291,Chandra Anggriawan,Banjarbaru,1.72
+292,Mahfud Sudiati,Tidore Kepulauan,2.58
+293,"Endah Jailani, S.Gz",Sungai Penuh,1.83
+294,"Febi Kurniawan, M.Pd",Solok,4.91
+295,Prayitna Nasyiah,Sungai Penuh,4.06
+296,Edi Sihombing,Mataram,2.4
+297,"Devi Permadi, S.Ked",Padang Sidempuan,3.61
+298,Drs. Arsipatra Firmansyah,Tegal,4.97
+299,Puput Utama,Kendari,4.11
+300,Dr. Sarah Tarihoran,Pematangsiantar,0.87
+301,Puti Astuti,Banjarbaru,0.77
+302,Kusuma Zulkarnain,Pangkalpinang,4.38
+303,Dacin Kusmawati,Pagaralam,1.25
+304,Harja Maulana,Surabaya,2.93
+305,Radit Firmansyah,Singkawang,4.2
+306,Zelaya Waskita,Bandung,3.92
+307,"Puti Puji Anggriawan, S.Pt",Balikpapan,3.47
+308,Laila Dongoran,Pasuruan,3.07
+309,Kamaria Wastuti,Bekasi,4.44
+310,Suci Oktaviani,Bengkulu,0.69
+311,"R. Mahfud Setiawan, M.Ak",Tasikmalaya,4.37
+312,Cayadi Halim,Sawahlunto,3.03
+313,KH. Hairyanto Novitasari,Sawahlunto,4.71
+314,"Tgk. Septi Habibi, M.Kom.",Sorong,1.03
+315,Zalindra Riyanti,Sibolga,1.57
+316,"Zelaya Wulandari, S.Psi",Ternate,3.59
+317,Umaya Najmudin,Tegal,1.21
+318,Salman Nuraini,Dumai,4.97
+319,H. Asirwada Namaga,Sorong,1.61
+320,Nasab Mulyani,Kota Administrasi Jakarta Barat,3.85
+321,Gangsa Kusumo,Tanjungpinang,1.89
+322,Yani Aryani,Cimahi,2.57
+323,Jamalia Hartati,Gorontalo,2.17
+324,drg. Caket Tampubolon,Bekasi,2.58
+325,Cakrawangsa Agustina,Mojokerto,1.05
+326,Dagel Hasanah,Bengkulu,1.45
+327,Mutia Hariyah,Yogyakarta,1.29
+328,Wakiman Padmasari,Tangerang Selatan,4.7
+329,Lukman Nurdiyanti,Samarinda,1.42
+330,Rahmi Pradipta,Tasikmalaya,0.56
+331,"Rizki Habibi, S.Ked",Surabaya,3.83
+332,Gangsar Wacana,Probolinggo,4.9
+333,"Dr. Hesti Nuraini, S.Pt",Salatiga,4.27
+334,"Mujur Hardiansyah, M.Pd",Tangerang,0.55
+335,Prakosa Gunarto,Banjar,3.05
+336,"Sutan Balangga Usada, S.Psi",Payakumbuh,0.65
+337,"R.A. Juli Padmasari, S.E.",Purwokerto,3.9
+338,Jefri Permata,Kediri,2.44
+339,"Eli Hidayanto, S.Ked",Subulussalam,3.26
+340,Cemplunk Haryanto,Surabaya,2.89
+341,Laksana Anggriawan,Tanjungpinang,3.24
+342,Elma Hutagalung,Bau-Bau,3.57
+343,Lukita Putra,Tangerang Selatan,1.13
+344,Maria Sitorus,Palu,4.39
+345,"R. Pardi Kusumo, M.Farm",Kupang,4.3
+346,Ulya Habibi,Solok,3.8
+347,Yoga Firmansyah,Kota Administrasi Jakarta Selatan,1.92
+348,Maryadi Hidayat,Palopo,1.24
+349,Harjaya Nasyiah,Prabumulih,3.54
+350,"Sutan Wage Sihotang, S.Psi",Depok,4.27
+351,"Ir. Marsudi Hartati, S.IP",Tomohon,4.23
+352,H. Okta Suryono,Tidore Kepulauan,2.56
+353,Jarwa Rahmawati,Manado,1.69
+354,"dr. Aurora Novitasari, S.Pt",Singkawang,2.06
+355,"Okto Nuraini, S.I.Kom",Yogyakarta,4.81
+356,"R. Vera Megantara, S.Farm",Bima,3.28
+357,Puti Malika Anggriawan,Tanjungpinang,2.89
+358,Nasab Hariyah,Pangkalpinang,4.73
+359,Bakidin Mandala,Blitar,2.43
+360,drg. Amelia Saputra,Bontang,2.89
+361,Endra Pertiwi,Bekasi,2.36
+362,Intan Dabukke,Batam,1.47
+363,"Jaya Damanik, S.Sos",Jambi,3.7
+364,"Dr. Maimunah Marbun, S.Ked",Prabumulih,3.26
+365,Cinta Pranowo,Palembang,1.01
+366,Prabowo Januar,Singkawang,0.97
+367,"Drs. Chelsea Hakim, M.TI.",Makassar,2.7
+368,Laksana Sihombing,Langsa,3.45
+369,"Yuliana Hardiansyah, S.Gz",Payakumbuh,2.68
+370,Gada Budiyanto,Palangkaraya,3.74
+371,Cindy Gunarto,Madiun,4.99
+372,Prasetya Zulaika,Probolinggo,3.08
+373,"Nabila Prabowo, S.H.",Kota Administrasi Jakarta Barat,2.58
+374,Febi Sihombing,Serang,2.75
+375,Farhunnisa Purnawati,Tasikmalaya,1.22
+376,Lutfan Mulyani,Dumai,2.58
+377,KH. Edward Suryatmi,Mataram,4.39
+378,R. Fitriani Aryani,Tangerang,1.73
+379,Titin Dongoran,Tual,3.59
+380,Heru Hassanah,Semarang,4.52
+381,Omar Hariyah,Tarakan,2.06
+382,Aswani Najmudin,Sibolga,1.42
+383,Pangeran Santoso,Tasikmalaya,0.87
+384,Laila Dabukke,Cimahi,3.65
+385,Dinda Safitri,Bekasi,1.32
+386,Ganda Adriansyah,Probolinggo,2.47
+387,Shakila Sihombing,Pariaman,2.33
+388,"Hairyanto Aryani, M.Kom.",Tegal,3.72
+389,Wisnu Mansur,Pagaralam,4.6
+390,"Dr. Mahesa Widiastuti, S.Ked",Kota Administrasi Jakarta Barat,4.39
+391,Luluh Megantara,Pangkalpinang,1.07
+392,"Edward Latupono, S.IP",Pagaralam,3.6
+393,Salsabila Salahudin,Pariaman,1.77
+394,Drs. Prayogo Saragih,Sibolga,3.6
+395,Puput Siregar,Tangerang Selatan,2.48
+396,"Ir. Lulut Hartati, M.M.",Parepare,4.69
+397,Farhunnisa Winarno,Palembang,3.21
+398,R.M. Gilang Usada,Parepare,2.29
+399,Daru Aryani,Binjai,2.29
+400,Eja Pranowo,Bogor,4.26
+401,Iriana Tarihoran,Dumai,2.85
+402,Uli Namaga,Purwokerto,4.01
+403,Hana Suryono,Ambon,1.48
+404,Luis Hasanah,Kendari,2.92
+405,Putri Sudiati,Langsa,2.34
+406,Cindy Mayasari,Ambon,2.62
+407,R.M. Kunthara Rajasa,Lubuklinggau,0.69
+408,"T. Harsanto Halim, M.Kom.",Padang,2.14
+409,"Prayitna Hidayat, S.H.",Cimahi,4.1
+410,"Ir. Dina Gunawan, S.I.Kom",Pasuruan,0.89
+411,Ihsan Laksmiwati,Bandar Lampung,4.2
+412,Teddy Wijayanti,Bogor,1.6
+413,Kamal Prasasta,Pagaralam,3.33
+414,Cakrawala Aryani,Dumai,3.45
+415,drg. Juli Pradana,Kota Administrasi Jakarta Selatan,3.48
+416,Teguh Susanti,Cimahi,3.59
+417,Kasiyah Permadi,Langsa,3.21
+418,Ir. Yessi Mardhiyah,Bima,0.6
+419,"Padma Waskita, S.Farm",Bandung,4.69
+420,"Ir. Aris Nurdiyanti, M.M.",Kupang,4.35
+421,Muhammad Narpati,Langsa,5.0
+422,Clara Tamba,Lubuklinggau,0.57
+423,Restu Andriani,Jambi,3.77
+424,Malik Yolanda,Tidore Kepulauan,4.18
+425,"Ir. Galiono Rahmawati, S.Psi",Serang,3.58
+426,"Indah Hutapea, S.I.Kom",Bau-Bau,0.6
+427,Timbul Pradana,Pematangsiantar,1.71
+428,Cawisadi Widiastuti,Balikpapan,2.68
+429,Latif Firgantoro,Langsa,2.81
+430,Ir. Elma Sirait,Manado,0.91
+431,"Ir. Lanjar Mahendra, M.Pd",Pariaman,2.61
+432,Sutan Pranawa Sinaga,Metro,1.06
+433,Gasti Marpaung,Kota Administrasi Jakarta Selatan,3.59
+434,"R. Carla Palastri, S.E.",Langsa,4.08
+435,Elma Wastuti,Lhokseumawe,3.71
+436,"Eli Kusumo, S.Psi",Jambi,1.91
+437,Drs. Gawati Widiastuti,Makassar,4.28
+438,Nardi Maryadi,Banjarmasin,2.73
+439,Hasna Palastri,Sabang,2.85
+440,Julia Waluyo,Subulussalam,2.28
+441,Drs. Cagak Halim,Bontang,1.71
+442,Maria Novitasari,Banda Aceh,1.68
+443,Shania Simbolon,Pekalongan,0.93
+444,Paulin Prastuti,Surakarta,4.1
+445,Salimah Mayasari,Solok,1.66
+446,Indah Rahimah,Surakarta,2.56
+447,Melinda Sihotang,Tasikmalaya,1.74
+448,"Ir. Vino Suartini, S.I.Kom",Tasikmalaya,3.33
+449,"Dt. Vero Prasetya, M.M.",Palu,1.79
+450,Niyaga Hutagalung,Sibolga,4.29
+451,Siti Putra,Batam,3.81
+452,"Nadia Putra, S.Gz",Tasikmalaya,4.41
+453,Arsipatra Marpaung,Tomohon,3.92
+454,Uli Utama,Samarinda,3.25
+455,Carla Irawan,Padang,2.7
+456,"Ulya Hidayanto, S.E.I",Cilegon,1.33
+457,Wahyu Tarihoran,Tebingtinggi,2.92
+458,Martaka Mahendra,Semarang,4.62
+459,drg. Yoga Pangestu,Lubuklinggau,2.37
+460,Dr. Heru Tampubolon,Tangerang,2.99
+461,Zalindra Suryatmi,Blitar,4.27
+462,Taswir Maheswara,Surabaya,1.21
+463,Elvina Rahimah,Kendari,4.51
+464,"Hj. Maya Susanti, S.H.",Balikpapan,0.84
+465,Sakti Saptono,Bukittinggi,3.91
+466,Mutia Yuniar,Manado,4.1
+467,Bagiya Damanik,Pasuruan,1.99
+468,drg. Violet Suwarno,Tangerang,3.68
+469,"Cut Tantri Sihombing, S.Psi",Tidore Kepulauan,1.7
+470,"Bagas Dabukke, S.Farm",Salatiga,1.47
+471,Victoria Yuniar,Blitar,1.6
+472,Cakrajiya Usada,Salatiga,4.76
+473,Maya Utama,Sukabumi,2.84
+474,"Kawaya Yuliarti, M.TI.",Bima,3.2
+475,Pangestu Widiastuti,Padang,2.18
+476,Drs. Dina Pratiwi,Sawahlunto,1.02
+477,Mila Rahimah,Banda Aceh,4.86
+478,"Puti Eka Nugroho, M.Ak",Batam,1.25
+479,Kasiyah Nababan,Jambi,2.25
+480,Lintang Waskita,Tangerang Selatan,3.06
+481,H. Hadi Wasita,Medan,4.21
+482,KH. Daliman Agustina,Sungai Penuh,2.38
+483,Sabrina Aryani,Blitar,0.5
+484,"KH. Jindra Halimah, S.Farm",Pematangsiantar,2.22
+485,Endah Handayani,Depok,3.97
+486,Balidin Mulyani,Bima,0.68
+487,Rahayu Yolanda,Blitar,4.1
+488,Dinda Susanti,Prabumulih,1.42
+489,"H. Ajimat Firgantoro, S.Farm",Yogyakarta,3.88
+490,Dr. Halim Situmorang,Kediri,2.06
+491,"Icha Yolanda, S.Gz",Jayapura,4.26
+492,"Tirtayasa Sihombing, M.TI.",Tual,1.6
+493,R. Lidya Nasyiah,Serang,1.58
+494,Patricia Permata,Banda Aceh,4.5
+495,"Ir. Elisa Sitorus, S.H.",Pekanbaru,3.24
+496,Drs. Malika Wijaya,Palu,1.97
+497,Puti Nadia Thamrin,Bitung,1.25
+498,Karma Gunarto,Padang Sidempuan,2.03
+499,"Drs. Tugiman Sihombing, M.M.",Bandar Lampung,3.41
+500,Hendri Budiyanto,Solok,4.01
+501,"T. Asmadi Mandala, M.TI.",Surabaya,3.12
+502,Pandu Irawan,Solok,1.54
+503,Bella Sihombing,Kota Administrasi Jakarta Selatan,4.45
+504,"drg. Faizah Hassanah, S.IP",Binjai,1.55
+505,KH. Dipa Setiawan,Medan,4.14
+506,"Caraka Mahendra, S.Ked",Bima,2.01
+507,Hari Padmasari,Batu,0.95
+508,Zizi Habibi,Kupang,1.22
+509,"R.A. Tania Yuniar, S.T.",Gorontalo,3.15
+510,Taufan Jailani,Kota Administrasi Jakarta Pusat,4.08
+511,Ir. Harimurti Zulaika,Metro,4.12
+512,Bagas Santoso,Malang,1.78
+513,Olivia Nurdiyanti,Banjarbaru,3.18
+514,"Cut Lidya Prasasta, S.Pt",Bengkulu,0.74
+515,"Drs. Lukman Prasetya, S.Psi",Sorong,4.27
+516,"Rahmi Susanti, M.M.",Sorong,0.88
+517,"dr. Cakrabuana Nuraini, S.Sos",Tebingtinggi,1.93
+518,Siti Melani,Banjarbaru,2.71
+519,Dono Pratama,Surabaya,1.35
+520,Dinda Sihotang,Bandar Lampung,2.5
+521,"Diana Safitri, S.Ked",Blitar,4.89
+522,"drg. Ika Rahimah, S.Ked",Cirebon,0.92
+523,Gandewa Siregar,Bandar Lampung,3.15
+524,"Dalima Saefullah, S.Gz",Tual,0.78
+525,Cornelia Hutagalung,Lubuklinggau,3.95
+526,Queen Siregar,Kediri,2.38
+527,Lintang Hasanah,Padangpanjang,3.66
+528,"Vicky Latupono, S.E.I",Tarakan,4.4
+529,"R. Asmuni Hutapea, S.Pt",Langsa,0.95
+530,Malika Kuswandari,Cilegon,4.76
+531,"Dr. Leo Prasasta, S.IP",Padangpanjang,2.08
+532,Surya Sirait,Banjarmasin,4.83
+533,Kamila Suryatmi,Manado,1.08
+534,"Enteng Lazuardi, S.T.",Tangerang Selatan,3.88
+535,KH. Arsipatra Suryatmi,Solok,2.68
+536,Banara Pratama,Probolinggo,0.55
+537,"Vera Padmasari, S.Farm",Meulaboh,3.54
+538,Ajimat Wibisono,Lubuklinggau,2.55
+539,Rahmat Anggriawan,Bogor,2.21
+540,Amelia Nugroho,Palopo,2.63
+541,"Hj. Zahra Waluyo, M.Farm",Mojokerto,0.76
+542,KH. Gaman Prakasa,Makassar,3.39
+543,Uli Kuswoyo,Prabumulih,4.35
+544,Sabrina Tampubolon,Kotamobagu,1.67
+545,"Ir. Putri Nasyidah, S.Gz",Manado,0.83
+546,Diah Namaga,Madiun,4.76
+547,Hj. Vivi Gunarto,Bogor,4.25
+548,Asirwada Kuswandari,Bontang,1.19
+549,Najam Mahendra,Kupang,1.58
+550,Kardi Kuswandari,Solok,0.97
+551,Bajragin Usamah,Kota Administrasi Jakarta Pusat,0.64
+552,"Tgk. Imam Wijaya, S.Ked",Padang,4.21
+553,Eli Rahmawati,Pariaman,4.56
+554,"Widya Narpati, S.Sos",Cimahi,2.48
+555,"drg. Ganda Kurniawan, M.TI.",Pekanbaru,2.62
+556,Among Setiawan,Sungai Penuh,4.86
+557,"Janet Suartini, S.Pd",Tidore Kepulauan,3.55
+558,R.A. Zizi Sihotang,Bima,1.04
+559,Alika Prastuti,Tual,4.03
+560,R.M. Dwi Nashiruddin,Singkawang,0.51
+561,Dr. Endah Hassanah,Kotamobagu,4.55
+562,Queen Latupono,Depok,0.97
+563,"Puti Malika Hutasoit, S.Farm",Malang,4.47
+564,"Puti Salimah Hasanah, S.E.I",Kendari,0.58
+565,Silvia Salahudin,Kendari,2.96
+566,Latika Januar,Pangkalpinang,4.35
+567,Ilsa Permata,Kota Administrasi Jakarta Barat,3.94
+568,Margana Napitupulu,Depok,3.42
+569,R. Farah Puspasari,Langsa,2.85
+570,"Liman Prasasta, S.Ked",Kotamobagu,3.55
+571,Shania Permata,Bitung,4.89
+572,"Carub Maheswara, S.Gz",Jayapura,4.33
+573,"drg. Uli Mansur, M.Pd",Surabaya,4.77
+574,"R. Maya Tarihoran, S.E.I",Manado,2.4
+575,Hesti Siregar,Tasikmalaya,0.65
+576,"Dr. Zelaya Winarno, M.Kom.",Medan,4.01
+577,"Drs. Budi Wulandari, M.Pd",Jambi,1.11
+578,drg. Padma Winarsih,Tangerang,3.17
+579,Gawati Megantara,Padang,2.7
+580,Ghaliyati Hariyah,Cimahi,2.46
+581,"Dian Napitupulu, S.I.Kom",Lhokseumawe,0.67
+582,Tami Nababan,Banjarmasin,1.39
+583,Darijan Kusumo,Balikpapan,4.12
+584,Candra Pradipta,Bukittinggi,0.99
+585,Ayu Riyanti,Bekasi,3.16
+586,"drg. Darijan Siregar, S.Ked",Bukittinggi,1.08
+587,Karen Prakasa,Tomohon,2.02
+588,Tina Permadi,Kendari,0.82
+589,Septi Hartati,Balikpapan,0.98
+590,Karen Sihotang,Batu,4.55
+591,Sutan Kairav Safitri,Denpasar,1.64
+592,Ir. Prasetyo Jailani,Kendari,0.75
+593,Kartika Laksita,Parepare,1.03
+594,"Sutan Harja Andriani, S.H.",Banjarbaru,2.23
+595,drg. Najam Damanik,Banda Aceh,3.63
+596,"H. Rusman Waskita, M.Kom.",Batam,1.88
+597,Alika Pratama,Malang,4.62
+598,Paulin Farida,Tanjungpinang,2.11
+599,"Lutfan Maulana, M.Ak",Palangkaraya,3.51
+600,Anggabaya Safitri,Bandar Lampung,4.93
+601,Cengkir Halim,Surakarta,0.68
+602,"Saiful Hutagalung, M.M.",Palu,4.05
+603,Jaya Prasetyo,Makassar,1.84
+604,Maras Uwais,Pangkalpinang,1.27
+605,Drs. Maria Pratiwi,Lubuklinggau,2.78
+606,"Cut Kasiyah Mulyani, S.I.Kom",Sorong,1.42
+607,"Ir. Nyana Yolanda, S.Ked",Parepare,0.96
+608,Intan Palastri,Cirebon,2.36
+609,Eka Marpaung,Pekalongan,2.16
+610,Ivan Prayoga,Palembang,3.54
+611,Paulin Gunarto,Jayapura,2.6
+612,"KH. Nasrullah Padmasari, S.T.",Sibolga,0.95
+613,"Ir. Ella Mandasari, M.Ak",Padangpanjang,2.15
+614,Diah Prakasa,Tebingtinggi,4.13
+615,"R. Ika Winarno, M.Farm",Kota Administrasi Jakarta Timur,4.91
+616,"Ir. Lili Nuraini, S.Pd",Sungai Penuh,0.63
+617,Warsa Fujiati,Kediri,2.31
+618,Betania Aryani,Bau-Bau,2.12
+619,Wisnu Agustina,Madiun,0.99
+620,"Banawa Thamrin, S.T.",Surakarta,1.67
+621,Calista Mulyani,Dumai,2.5
+622,Warji Rahimah,Bekasi,4.55
+623,Danuja Sudiati,Meulaboh,0.79
+624,Ami Mardhiyah,Tual,3.68
+625,Victoria Natsir,Bengkulu,4.96
+626,Vicky Puspita,Samarinda,3.32
+627,dr. Lukman Siregar,Bitung,2.83
+628,Sutan Ibun Wahyudin,Singkawang,3.21
+629,"Drajat Wasita, S.Gz",Banjarmasin,0.84
+630,"Dewi Utama, S.I.Kom",Parepare,3.55
+631,"R. Tantri Wasita, M.TI.",Pontianak,0.89
+632,Umi Suwarno,Bima,1.52
+633,"Saka Melani, S.E.I",Parepare,3.56
+634,Uli Laksmiwati,Langsa,4.6
+635,"Prasetyo Utama, M.Ak",Padang,2.23
+636,Prasetya Nainggolan,Samarinda,4.63
+637,"Ega Laksita, S.E.I",Bandar Lampung,2.57
+638,Saadat Handayani,Kota Administrasi Jakarta Utara,3.06
+639,Nadia Thamrin,Pariaman,3.21
+640,"Jayeng Santoso, S.Ked",Lubuklinggau,3.96
+641,"T. Wasis Firgantoro, S.E.",Surabaya,2.37
+642,Ibrani Rahimah,Ambon,2.2
+643,"Halima Salahudin, S.I.Kom",Kota Administrasi Jakarta Utara,0.74
+644,Makuta Prasetya,Palangkaraya,0.68
+645,Prabowo Utami,Palangkaraya,4.75
+646,"Cinthia Marpaung, S.E.I",Tidore Kepulauan,2.7
+647,"R.A. Uli Handayani, S.Sos",Sorong,4.02
+648,Amalia Sudiati,Tarakan,2.88
+649,"Karya Dabukke, S.Farm",Bandar Lampung,3.43
+650,"Sutan Bagus Namaga, M.Pd",Balikpapan,0.64
+651,Ratna Utama,Gorontalo,3.8
+652,Harsaya Sinaga,Bandung,0.72
+653,Koko Thamrin,Cirebon,1.07
+654,Hairyanto Wasita,Padangpanjang,2.07
+655,Ellis Najmudin,Magelang,1.88
+656,"Paiman Iswahyudi, M.Farm",Bandar Lampung,4.34
+657,Kariman Zulkarnain,Ambon,2.56
+658,Zelaya Rahmawati,Banda Aceh,3.82
+659,"Safina Sitompul, M.TI.",Sorong,3.07
+660,Latika Yolanda,Dumai,4.29
+661,Ajiman Hutapea,Tual,4.92
+662,Karen Prastuti,Banjar,0.77
+663,Dimaz Nashiruddin,Jambi,4.05
+664,"Mursita Anggraini, M.Kom.",Pekanbaru,2.37
+665,Jarwi Lazuardi,Semarang,1.66
+666,KH. Karta Marpaung,Tasikmalaya,2.23
+667,"Kasiyah Mandasari, S.Ked",Malang,2.78
+668,Azalea Widodo,Kota Administrasi Jakarta Selatan,3.38
+669,R. Zulaikha Tamba,Pekanbaru,4.77
+670,Oni Maryadi,Bandar Lampung,1.67
+671,Caket Saragih,Blitar,2.84
+672,Hasan Saptono,Blitar,4.42
+673,Ir. Dartono Marbun,Bandung,3.63
+674,"Samiah Wahyuni, M.Kom.",Subulussalam,2.01
+675,"Siti Hastuti, S.IP",Pematangsiantar,0.79
+676,Anita Pertiwi,Ternate,2.35
+677,Tari Kurniawan,Langsa,4.34
+678,"Ir. Genta Pratama, S.Ked",Parepare,0.89
+679,"Cut Oliva Sitompul, M.Pd",Batam,3.22
+680,"Mariadi Utama, S.I.Kom",Bima,4.26
+681,Alika Wasita,Ambon,3.09
+682,Hairyanto Yolanda,Kota Administrasi Jakarta Barat,4.19
+683,"Icha Sihombing, S.T.",Sabang,3.91
+684,Rachel Hakim,Kotamobagu,0.82
+685,Usman Palastri,Tidore Kepulauan,2.7
+686,Alika Mangunsong,Langsa,0.65
+687,"Dinda Prasasta, S.Ked",Purwokerto,2.94
+688,Balangga Lestari,Madiun,2.47
+689,"Damar Dabukke, S.T.",Tarakan,2.89
+690,"Tgk. Ina Suwarno, S.T.",Sabang,1.0
+691,R. Tari Widiastuti,Samarinda,3.84
+692,Kezia Halim,Salatiga,3.56
+693,Azalea Prayoga,Sabang,0.64
+694,Adiarja Astuti,Pariaman,0.52
+695,"dr. Jasmin Saptono, S.IP",Tanjungpinang,3.81
+696,"Tgk. Unjani Wahyuni, S.E.",Ambon,4.29
+697,Clara Irawan,Palopo,3.17
+698,Tomi Prasasta,Dumai,4.53
+699,Kani Sitompul,Medan,3.27
+700,Qori Sitorus,Ternate,2.82
+701,Sutan Kariman Hakim,Sawahlunto,4.82
+702,"R. Unggul Hutagalung, S.H.",Bima,1.47
+703,Respati Winarsih,Mojokerto,2.74
+704,Sutan Hasim Nuraini,Tomohon,4.16
+705,Rafid Nugroho,Padang,4.53
+706,Halima Wibisono,Purwokerto,1.85
+707,Samiah Wastuti,Kota Administrasi Jakarta Pusat,4.47
+708,Tami Novitasari,Purwokerto,0.74
+709,Gina Maryati,Tasikmalaya,2.87
+710,"R.M. Daliono Saragih, S.I.Kom",Tomohon,1.39
+711,Rahmi Rajata,Tanjungpinang,1.01
+712,"Raden Saragih, S.Sos",Cilegon,2.52
+713,Kiandra Dongoran,Medan,1.42
+714,"Kunthara Wastuti, M.Kom.",Kota Administrasi Jakarta Pusat,0.85
+715,dr. Mila Pradana,Palangkaraya,1.38
+716,Puti Zalindra Hidayanto,Serang,1.74
+717,"T. Setya Najmudin, S.I.Kom",Pekanbaru,2.05
+718,Cinthia Pradipta,Bima,4.01
+719,Chelsea Kuswandari,Meulaboh,0.56
+720,Artanto Rajasa,Ternate,0.75
+721,"Wani Mandala, M.Farm",Samarinda,4.02
+722,Martana Widiastuti,Lubuklinggau,2.96
+723,Nabila Haryanti,Pekanbaru,3.0
+724,Tari Tarihoran,Lhokseumawe,2.86
+725,"Harsaya Laksmiwati, M.Farm",Mojokerto,4.16
+726,"Halim Pudjiastuti, S.Gz",Cilegon,1.59
+727,Cahyono Prayoga,Tomohon,4.1
+728,Puti Maria Prastuti,Kota Administrasi Jakarta Barat,1.65
+729,"Zelaya Kusmawati, S.E.I",Cilegon,1.78
+730,"R.M. Harjo Pratama, S.I.Kom",Palangkaraya,3.85
+731,Jais Marbun,Balikpapan,1.49
+732,Legawa Pratama,Yogyakarta,3.11
+733,Erik Sitompul,Kendari,2.54
+734,Garan Tamba,Lhokseumawe,1.86
+735,"drg. Kemal Megantara, S.Psi",Pasuruan,4.79
+736,Prayoga Sitompul,Pangkalpinang,2.65
+737,Karimah Narpati,Cilegon,1.53
+738,Tgk. Wawan Yuliarti,Singkawang,0.62
+739,Ir. Taswir Habibi,Semarang,2.93
+740,"Endra Mangunsong, S.Ked",Bandar Lampung,3.12
+741,Viman Pradana,Kediri,2.0
+742,Cengkal Rahayu,Sabang,4.16
+743,Hesti Rajata,Palangkaraya,3.21
+744,Praba Hidayat,Kota Administrasi Jakarta Timur,4.7
+745,"drg. Rahmi Firmansyah, M.Farm",Pontianak,1.46
+746,Rini Nasyiah,Bau-Bau,4.66
+747,Bagya Wibisono,Cilegon,2.07
+748,"Ira Ramadan, S.Pd",Kota Administrasi Jakarta Utara,4.98
+749,"Ana Prasetya, S.Gz",Surakarta,1.74
+750,Cahyadi Nuraini,Bitung,0.62
+751,Caturangga Purnawati,Makassar,2.41
+752,Tantri Prastuti,Bengkulu,0.98
+753,R. Okta Laksita,Prabumulih,2.01
+754,Diana Melani,Tanjungbalai,1.45
+755,Ir. Jono Siregar,Madiun,0.88
+756,Anggabaya Ramadan,Tebingtinggi,4.78
+757,"Mustika Yuliarti, S.E.",Batu,1.89
+758,Paiman Sihotang,Denpasar,3.86
+759,Elisa Waskita,Palangkaraya,4.95
+760,Devi Kuswoyo,Madiun,2.8
+761,Ir. Daliono Firgantoro,Singkawang,4.6
+762,Alika Kusmawati,Gorontalo,1.58
+763,"Ir. Kardi Maryadi, S.E.",Madiun,2.91
+764,"Anom Kuswoyo, M.Pd",Pekalongan,2.17
+765,"T. Unggul Saputra, S.E.I",Meulaboh,4.22
+766,Yani Wastuti,Kota Administrasi Jakarta Selatan,2.11
+767,"H. Damu Hariyah, S.E.",Padang Sidempuan,3.45
+768,"Kawaca Napitupulu, M.Ak",Malang,2.25
+769,"Ajeng Sitompul, M.TI.",Gorontalo,2.87
+770,Dinda Fujiati,Pagaralam,4.85
+771,Salimah Sihombing,Purwokerto,2.67
+772,Puti Sitorus,Sungai Penuh,1.8
+773,"Karsana Kusumo, S.H.",Tomohon,0.82
+774,Putri Nuraini,Malang,1.47
+775,Hj. Tiara Winarno,Solok,2.41
+776,T. Aswani Firmansyah,Lubuklinggau,1.26
+777,drg. Puti Hutapea,Tarakan,4.53
+778,Yunita Kusmawati,Surakarta,3.33
+779,Calista Prasetya,Kota Administrasi Jakarta Pusat,1.5
+780,Elvina Widodo,Serang,0.62
+781,Carla Mayasari,Bau-Bau,3.08
+782,Tantri Dongoran,Bandung,1.44
+783,"Puti Sitorus, S.Sos",Purwokerto,1.43
+784,"Hj. Ella Ardianto, S.Gz",Lhokseumawe,2.54
+785,Luhung Riyanti,Subulussalam,2.89
+786,Winda Hutasoit,Sibolga,0.72
+787,Ibun Damanik,Dumai,3.65
+788,"Drs. Violet Pertiwi, S.IP",Sawahlunto,4.92
+789,Gina Wijaya,Mataram,1.29
+790,Ikhsan Suryono,Kota Administrasi Jakarta Selatan,1.0
+791,"R.A. Jamalia Agustina, M.M.",Solok,4.33
+792,Ivan Mansur,Tegal,2.33
+793,Bella Hartati,Cirebon,4.87
+794,Anastasia Saragih,Payakumbuh,3.77
+795,Aurora Pratama,Salatiga,4.24
+796,"Cut Maida Sitorus, M.M.",Kota Administrasi Jakarta Timur,3.37
+797,"Dt. Prayogo Siregar, S.Psi",Tanjungpinang,1.84
+798,Luhung Putra,Sabang,0.51
+799,Cakrawangsa Wahyuni,Kota Administrasi Jakarta Selatan,1.93
+800,Candrakanta Marpaung,Kupang,3.71
+801,"Cinta Budiyanto, S.E.",Sibolga,4.13
+802,Drs. Rosman Hartati,Kediri,2.38
+803,"Slamet Pangestu, S.E.I",Medan,4.97
+804,Karna Pranowo,Yogyakarta,2.79
+805,"Cut Salimah Hakim, M.TI.",Magelang,1.05
+806,"Cinta Thamrin, S.I.Kom",Singkawang,3.38
+807,Ir. Uli Hardiansyah,Banjarmasin,2.67
+808,Liman Prasetya,Sibolga,2.77
+809,Dewi Wulandari,Kota Administrasi Jakarta Utara,3.2
+810,Dr. Humaira Simanjuntak,Solok,1.0
+811,Ika Widiastuti,Tomohon,4.87
+812,"Zulaikha Mayasari, S.Pt",Bontang,3.07
+813,Lutfan Lazuardi,Kotamobagu,1.49
+814,Ikin Dongoran,Solok,2.0
+815,Hafshah Pertiwi,Kediri,3.21
+816,"R.A. Dewi Widiastuti, S.Kom",Tanjungpinang,1.23
+817,"Sutan Baktiadi Lazuardi, S.H.",Pematangsiantar,1.59
+818,Bakijan Gunawan,Blitar,1.91
+819,drg. Safina Marbun,Tasikmalaya,2.98
+820,Yani Pratama,Singkawang,1.84
+821,Halima Dongoran,Lubuklinggau,3.02
+822,Padmi Rahimah,Sibolga,3.84
+823,Aslijan Damanik,Bengkulu,1.02
+824,Gara Novitasari,Tual,0.91
+825,Dr. Azalea Sitompul,Tomohon,2.67
+826,"Garan Samosir, S.Pt",Medan,2.99
+827,Harsaya Maheswara,Bukittinggi,3.48
+828,Cakrawala Zulaika,Serang,3.52
+829,"Kasiran Natsir, S.I.Kom",Banjar,0.93
+830,Malika Yolanda,Padang Sidempuan,3.75
+831,Sari Wahyudin,Medan,0.63
+832,Bagya Firmansyah,Tidore Kepulauan,1.86
+833,R. Taufik Uyainah,Banjar,1.3
+834,Yusuf Halim,Langsa,4.46
+835,Nyana Tampubolon,Batam,3.84
+836,Harjo Wulandari,Pangkalpinang,4.44
+837,"Ir. Rika Lazuardi, S.IP",Tanjungbalai,3.63
+838,Jessica Maryadi,Tasikmalaya,2.17
+839,"Maida Kusumo, S.Pt",Meulaboh,4.19
+840,Budi Kuswoyo,Sabang,3.83
+841,Ghani Prakasa,Sukabumi,1.27
+842,"Dalima Rahayu, S.E.",Bandar Lampung,2.72
+843,Cecep Firgantoro,Kotamobagu,1.59
+844,"Jaya Wulandari, S.Sos",Gorontalo,3.17
+845,Uli Narpati,Lubuklinggau,4.45
+846,Lutfan Widodo,Probolinggo,2.49
+847,Karsa Latupono,Pekalongan,3.83
+848,"Rahmi Usada, S.Psi",Ambon,4.86
+849,Ir. Caturangga Mulyani,Banjar,1.25
+850,"Parman Rahayu, S.Psi",Semarang,3.39
+851,R. Malik Saefullah,Ternate,1.03
+852,Purwadi Januar,Padangpanjang,3.63
+853,Murti Hartati,Batam,1.94
+854,"Genta Susanti, S.Sos",Dumai,1.6
+855,Tgk. Labuh Melani,Bontang,2.83
+856,"Rahmi Puspita, M.Pd",Mojokerto,2.59
+857,Intan Maheswara,Sawahlunto,3.48
+858,Puti Puji Wahyuni,Purwokerto,3.16
+859,Rini Hasanah,Subulussalam,1.0
+860,Vinsen Suryatmi,Tangerang,3.02
+861,Dian Rahayu,Banjarmasin,2.4
+862,"Faizah Dongoran, S.Kom",Serang,1.73
+863,"Hj. Lalita Hastuti, S.Ked",Kendari,1.43
+864,Yulia Rahayu,Payakumbuh,3.18
+865,Gasti Hasanah,Blitar,1.22
+866,Zulfa Nasyiah,Langsa,0.51
+867,Drs. Dwi Uwais,Bogor,3.84
+868,Shania Mulyani,Balikpapan,1.17
+869,Dirja Maryadi,Probolinggo,1.42
+870,"Cut Salsabila Suryono, S.IP",Surabaya,4.57
+871,Hana Utama,Manado,0.85
+872,Kemba Siregar,Bandung,0.97
+873,Prasetyo Waluyo,Pekalongan,4.07
+874,"Endah Rahayu, S.Sos",Tidore Kepulauan,1.4
+875,Daru Situmorang,Manado,3.87
+876,"dr. Caturangga Winarno, M.M.",Banda Aceh,3.96
+877,Rosman Damanik,Sorong,4.66
+878,"R.A. Almira Saputra, M.Pd",Bitung,4.27
+879,"Ir. Endah Lestari, S.E.I",Cirebon,2.68
+880,Asmuni Fujiati,Ternate,1.71
+881,Drs. Hasan Waluyo,Bukittinggi,3.37
+882,"Prayitna Napitupulu, M.Farm",Surakarta,3.02
+883,R. Jati Mangunsong,Malang,4.18
+884,Tania Haryanti,Tangerang Selatan,1.92
+885,"drg. Citra Mayasari, M.TI.",Yogyakarta,1.75
+886,Tania Nashiruddin,Mataram,3.29
+887,Ir. Ulya Pratiwi,Kotamobagu,3.83
+888,Ulva Irawan,Cirebon,2.7
+889,Harimurti Tampubolon,Tangerang Selatan,1.43
+890,Dian Setiawan,Palopo,4.83
+891,"Dt. Laswi Oktaviani, S.Pt",Bima,2.36
+892,Carla Mustofa,Cirebon,3.61
+893,Agnes Setiawan,Bukittinggi,3.1
+894,Najwa Wacana,Kota Administrasi Jakarta Utara,2.38
+895,Okto Dongoran,Bukittinggi,3.77
+896,"Drs. Maya Sihombing, S.Psi",Tual,4.14
+897,H. Kemba Kuswoyo,Kediri,3.38
+898,Yunita Hardiansyah,Palembang,1.41
+899,Karya Puspasari,Prabumulih,2.34
+900,Gamanto Megantara,Prabumulih,4.68
+901,"Baktianto Hidayat, S.Pt",Purwokerto,0.51
+902,Dagel Putra,Manado,1.98
+903,Umi Suartini,Bima,2.14
+904,Wira Widiastuti,Padang Sidempuan,3.95
+905,Unjani Dongoran,Prabumulih,2.85
+906,Martani Marbun,Serang,1.42
+907,drg. Edison Maryadi,Pangkalpinang,3.13
+908,Jaya Hariyah,Palangkaraya,1.12
+909,Puti Novi Tampubolon,Cirebon,2.2
+910,"Elma Wacana, S.E.",Makassar,1.95
+911,"Jasmin Prakasa, M.TI.",Bima,4.0
+912,Vanya Novitasari,Palu,1.67
+913,Uli Mardhiyah,Balikpapan,3.07
+914,Lintang Astuti,Yogyakarta,1.31
+915,"Akarsana Tamba, S.T.",Metro,0.84
+916,"Kunthara Prayoga, S.Sos",Palopo,2.82
+917,"Jagaraga Hasanah, S.IP",Banda Aceh,1.1
+918,Usyi Mangunsong,Tarakan,4.17
+919,Gilda Hutagalung,Kotamobagu,3.15
+920,dr. Ana Mansur,Tasikmalaya,1.56
+921,Hafshah Napitupulu,Bima,2.9
+922,Maryadi Mayasari,Medan,4.85
+923,Cahyono Hutapea,Madiun,1.04
+924,Jail Tarihoran,Bekasi,0.94
+925,Ani Uyainah,Bukittinggi,2.91
+926,R. Perkasa Kusmawati,Tangerang Selatan,2.83
+927,Gada Pertiwi,Palopo,1.97
+928,"Enteng Utami, S.Psi",Gorontalo,1.24
+929,"Hadi Rahmawati, S.Kom",Surakarta,1.37
+930,drg. Lega Pradipta,Medan,0.94
+931,"Ami Saputra, S.Gz",Surabaya,0.97
+932,"Genta Waskita, M.Kom.",Bontang,2.78
+933,drg. Karna Kuswandari,Bukittinggi,1.71
+934,Ikhsan Hidayanto,Medan,4.72
+935,Febi Wibowo,Banjarmasin,3.91
+936,Kasusra Laksmiwati,Semarang,3.9
+937,Jaeman Permadi,Pekalongan,4.88
+938,Dr. Hana Palastri,Binjai,2.86
+939,Kania Yolanda,Madiun,1.42
+940,Lalita Rajasa,Bima,1.14
+941,"Diah Saragih, S.E.",Pariaman,2.32
+942,"Dt. Pardi Kusumo, M.Ak",Lubuklinggau,1.14
+943,Titi Yulianti,Surabaya,3.06
+944,Puti Rahmi Wijaya,Bima,2.62
+945,"R. Heru Suryono, M.TI.",Padang Sidempuan,1.05
+946,"Salman Megantara, S.E.I",Pangkalpinang,0.71
+947,"Paiman Nashiruddin, S.Farm",Bau-Bau,1.28
+948,Nasim Kusumo,Bitung,3.49
+949,Mursinin Hutapea,Semarang,1.75
+950,Dt. Bagiya Prasetyo,Tebingtinggi,3.04
+951,Galiono Sirait,Kota Administrasi Jakarta Timur,0.53
+952,Cengkal Safitri,Probolinggo,2.92
+953,Zalindra Mangunsong,Pematangsiantar,4.73
+954,"Ir. Salwa Wibowo, M.M.",Gorontalo,4.25
+955,Prayitna Permata,Langsa,0.53
+956,Rizki Suwarno,Bandung,2.76
+957,Kamila Aryani,Palu,1.31
+958,Rama Saragih,Salatiga,2.81
+959,Sarah Dabukke,Tanjungbalai,4.4
+960,Dalima Damanik,Medan,3.38
+961,"Ir. Purwadi Kuswoyo, S.Pd",Pekanbaru,4.14
+962,Kamaria Mulyani,Medan,1.87
+963,"Farhunnisa Lazuardi, S.E.",Surabaya,2.17
+964,Anastasia Samosir,Palu,1.02
+965,Lala Kurniawan,Cirebon,1.41
+966,"Drs. Aisyah Novitasari, S.Ked",Palangkaraya,1.7
+967,"Dr. Aisyah Kuswandari, M.Pd",Ternate,3.9
+968,Elisa Yuniar,Kota Administrasi Jakarta Timur,4.93
+969,Alika Hakim,Bau-Bau,1.16
+970,Maida Hartati,Mataram,3.28
+971,"Rafid Sihotang, S.E.",Tomohon,4.48
+972,Sidiq Lazuardi,Probolinggo,1.08
+973,Warta Wibowo,Metro,0.76
+974,Danuja Waluyo,Palopo,3.63
+975,"dr. Tiara Yolanda, M.M.",Kota Administrasi Jakarta Utara,3.87
+976,"Salman Lestari, M.Farm",Kupang,3.86
+977,Sari Nababan,Pematangsiantar,3.65
+978,"Dr. Sadina Sirait, S.Pt",Pekanbaru,2.13
+979,Icha Rajata,Bau-Bau,0.9
+980,"Nabila Rajasa, M.Ak",Kota Administrasi Jakarta Pusat,1.83
+981,R. Cinta Januar,Medan,1.88
+982,Aswani Mahendra,Salatiga,4.58
+983,Padmi Melani,Semarang,1.36
+984,Betania Siregar,Palembang,1.97
+985,Aisyah Hasanah,Cirebon,2.99
+986,Radit Lazuardi,Lubuklinggau,3.3
+987,Bahuwarna Nurdiyanti,Kota Administrasi Jakarta Pusat,3.79
+988,Ganjaran Dongoran,Bogor,3.97
+989,Almira Widodo,Surabaya,1.63
+990,"Liman Maryadi, S.T.",Parepare,3.61
+991,Zulaikha Permadi,Palopo,4.47
+992,R. Emil Anggriawan,Kendari,1.99
+993,"Zulaikha Budiman, S.Gz",Serang,4.93
+994,Latif Prabowo,Lhokseumawe,3.92
+995,Limar Gunawan,Makassar,2.72
+996,Karen Widiastuti,Tangerang Selatan,2.16
+997,Imam Nurdiyanti,Tegal,3.31
+998,Wawan Padmasari,Bekasi,3.98
+999,"Tgk. Zamira Hidayat, M.Ak",Ternate,2.76
+1000,"drg. Suci Wasita, S.E.",Kota Administrasi Jakarta Utara,1.19

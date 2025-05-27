@@ -3,6 +3,7 @@
 # Agriculture Supply Chain Data Warehouse
 
 <img src="https://cdn.agclassroom.org/media/uploads/LP838/Food-Supply-Chain.png"/>
+
 ## Overview
 This repository contains a comprehensive data warehouse solution for managing and analyzing agricultural supply chain data. The project aims to provide insights into the entire agricultural supply chain process, from production to distribution, enabling better decision-making and optimization of agricultural operations.
 

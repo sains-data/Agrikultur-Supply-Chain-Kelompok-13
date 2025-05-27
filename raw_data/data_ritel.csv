@@ -1,0 +1,1001 @@
+retail_partner_id,name,type
+1,CV Mangunsong Wulandari (Persero) Tbk,Distributor
+2,PT Nasyidah Pratiwi,Distributor
+3,Perum Waluyo Anggraini,Distributor
+4,CV Prastuti Tamba,Supermarket
+5,CV Namaga Iswahyudi,Distributor
+6,UD Yuliarti (Persero) Tbk,Distributor
+7,Perum Uyainah,Distributor
+8,PT Nasyidah Wahyudin Tbk,Distributor
+9,PT Suryatmi,Retail
+10,PD Utami Nuraini,Supermarket
+11,CV Anggriawan Prabowo Tbk,Retail
+12,Perum Saptono Nuraini,Supermarket
+13,Perum Rahmawati Rajata,Distributor
+14,CV Prayoga (Persero) Tbk,Supermarket
+15,PT Haryanto,Retail
+16,CV Salahudin,Retail
+17,CV Hartati Yuniar (Persero) Tbk,Distributor
+18,Perum Puspasari Yolanda Tbk,Supermarket
+19,UD Suryono Haryanti,Distributor
+20,CV Pangestu Prabowo (Persero) Tbk,Retail
+21,PD Uwais (Persero) Tbk,Distributor
+22,CV Purnawati,Distributor
+23,CV Astuti Nuraini Tbk,Retail
+24,PD Sihombing,Supermarket
+25,PT Saputra Pertiwi,Supermarket
+26,Perum Utama Saefullah,Supermarket
+27,Perum Melani Tbk,Supermarket
+28,PT Namaga Pratiwi Tbk,Supermarket
+29,PT Riyanti,Supermarket
+30,Perum Napitupulu Riyanti,Supermarket
+31,Perum Natsir,Supermarket
+32,PD Saefullah Dongoran (Persero) Tbk,Supermarket
+33,UD Hidayanto,Retail
+34,Perum Namaga Kusmawati,Distributor
+35,Perum Permadi,Supermarket
+36,PD Pangestu Nababan,Supermarket
+37,CV Kuswoyo,Retail
+38,PT Megantara Siregar,Retail
+39,Perum Kuswoyo Tbk,Retail
+40,Perum Saefullah Tbk,Retail
+41,UD Simanjuntak Najmudin Tbk,Supermarket
+42,PT Usada Sitorus,Distributor
+43,PD Uwais (Persero) Tbk,Retail
+44,PT Pratiwi Tbk,Supermarket
+45,Perum Marpaung Siregar,Distributor
+46,UD Permata Yuniar (Persero) Tbk,Supermarket
+47,UD Dabukke Marbun Tbk,Distributor
+48,CV Agustina Wijayanti,Retail
+49,CV Kurniawan (Persero) Tbk,Distributor
+50,CV Wibisono,Supermarket
+51,CV Pratama Maryadi (Persero) Tbk,Supermarket
+52,PT Prastuti Marbun,Distributor
+53,PD Permadi (Persero) Tbk,Distributor
+54,UD Hutapea Yulianti,Retail
+55,CV Rahimah Samosir,Retail
+56,PT Winarno Jailani (Persero) Tbk,Supermarket
+57,UD Palastri Hariyah (Persero) Tbk,Supermarket
+58,CV Winarsih Uwais,Supermarket
+59,PD Pranowo Hardiansyah,Supermarket
+60,UD Namaga Sihotang (Persero) Tbk,Retail
+61,Perum Rajasa Aryani (Persero) Tbk,Supermarket
+62,PT Mahendra,Distributor
+63,UD Haryanto Kuswandari,Supermarket
+64,PD Tampubolon Andriani (Persero) Tbk,Distributor
+65,Perum Farida,Distributor
+66,CV Sihotang Lestari Tbk,Distributor
+67,UD Prasetyo,Retail
+68,PT Suryatmi (Persero) Tbk,Retail
+69,UD Maryadi Suryono,Distributor
+70,Perum Wijaya Salahudin,Supermarket
+71,PD Palastri Tbk,Retail
+72,PT Safitri (Persero) Tbk,Supermarket
+73,Perum Utama Tbk,Supermarket
+74,PT Pratama Tbk,Retail
+75,PD Uyainah Tbk,Supermarket
+76,CV Permata Wahyudin,Distributor
+77,CV Sitorus Pratiwi,Supermarket
+78,PD Mangunsong Tarihoran Tbk,Distributor
+79,CV Napitupulu,Distributor
+80,PD Irawan Nainggolan,Supermarket
+81,PD Budiyanto Pratiwi,Supermarket
+82,PT Prakasa (Persero) Tbk,Distributor
+83,UD Laksmiwati,Distributor
+84,PD Mandasari Najmudin Tbk,Supermarket
+85,UD Suryono Saefullah,Retail
+86,PD Pradana Salahudin,Distributor
+87,PD Saptono,Distributor
+88,Perum Utami,Distributor
+89,UD Pertiwi Nababan,Retail
+90,CV Nasyiah Mandala Tbk,Distributor
+91,PD Hutapea,Supermarket
+92,PD Hutagalung,Retail
+93,PT Puspita,Retail
+94,UD Mayasari Purwanti,Retail
+95,CV Prasetya,Retail
+96,Perum Prabowo Dongoran,Distributor
+97,CV Waskita Mandala,Retail
+98,Perum Sirait,Distributor
+99,Perum Nababan Gunarto,Retail
+100,PD Agustina,Distributor
+101,PD Hutasoit Tbk,Retail
+102,CV Damanik Palastri (Persero) Tbk,Distributor
+103,Perum Mandasari,Supermarket
+104,Perum Saptono,Retail
+105,CV Gunarto Sitorus,Supermarket
+106,UD Nugroho (Persero) Tbk,Retail
+107,UD Sirait Tbk,Retail
+108,UD Pertiwi,Supermarket
+109,PT Agustina Widiastuti Tbk,Retail
+110,Perum Pratama Situmorang Tbk,Supermarket
+111,PT Sihotang,Retail
+112,UD Sitorus Sudiati (Persero) Tbk,Distributor
+113,PD Nasyidah Tbk,Distributor
+114,PT Tampubolon Tbk,Distributor
+115,CV Anggraini,Distributor
+116,PD Siregar Wahyuni,Distributor
+117,PT Prasasta Astuti,Distributor
+118,PD Astuti Usada,Retail
+119,Perum Halimah (Persero) Tbk,Distributor
+120,UD Rahmawati Santoso Tbk,Retail
+121,CV Utama,Retail
+122,PT Agustina Tbk,Retail
+123,PT Kuswandari (Persero) Tbk,Distributor
+124,Perum Maryadi,Supermarket
+125,PD Natsir,Supermarket
+126,Perum Putra Purwanti Tbk,Distributor
+127,PD Lestari Palastri (Persero) Tbk,Distributor
+128,CV Saragih Dabukke,Distributor
+129,Perum Damanik Rahimah (Persero) Tbk,Supermarket
+130,Perum Lazuardi Kurniawan Tbk,Retail
+131,PT Suryatmi Tbk,Supermarket
+132,PD Iswahyudi Prastuti,Retail
+133,CV Wijaya Waluyo (Persero) Tbk,Distributor
+134,CV Yolanda Tbk,Distributor
+135,Perum Hutagalung Lestari,Supermarket
+136,Perum Hartati,Retail
+137,CV Saptono (Persero) Tbk,Distributor
+138,PT Nashiruddin Tbk,Retail
+139,PT Laksita Handayani Tbk,Retail
+140,CV Mahendra Samosir,Distributor
+141,Perum Mayasari Prasetya,Supermarket
+142,PT Waluyo Dabukke,Supermarket
+143,PD Ramadan Prasetya Tbk,Distributor
+144,PT Tampubolon (Persero) Tbk,Distributor
+145,UD Dongoran Novitasari Tbk,Supermarket
+146,PT Putra Tbk,Retail
+147,PD Hassanah Saefullah,Distributor
+148,CV Wahyudin Hastuti Tbk,Retail
+149,PD Kusmawati Anggraini,Retail
+150,UD Zulaika Tbk,Distributor
+151,Perum Hariyah Tbk,Retail
+152,Perum Anggraini Tbk,Supermarket
+153,CV Rajata Hastuti,Distributor
+154,UD Uwais Tbk,Distributor
+155,Perum Firmansyah,Distributor
+156,PD Melani (Persero) Tbk,Distributor
+157,Perum Kurniawan (Persero) Tbk,Supermarket
+158,UD Anggriawan Tbk,Retail
+159,PD Prakasa Saragih (Persero) Tbk,Retail
+160,PD Rahayu,Distributor
+161,CV Sudiati (Persero) Tbk,Supermarket
+162,PT Megantara Sihombing (Persero) Tbk,Supermarket
+163,Perum Gunarto,Distributor
+164,PD Halimah Sudiati Tbk,Retail
+165,CV Fujiati (Persero) Tbk,Retail
+166,UD Prasasta Tbk,Retail
+167,Perum Hariyah,Supermarket
+168,PT Marpaung (Persero) Tbk,Distributor
+169,PD Prastuti Tbk,Retail
+170,Perum Habibi Dongoran,Distributor
+171,PD Simanjuntak Tbk,Retail
+172,PD Ardianto Saptono,Distributor
+173,UD Sitorus Tbk,Supermarket
+174,PT Habibi,Distributor
+175,Perum Aryani,Retail
+176,CV Permata (Persero) Tbk,Retail
+177,CV Puspita (Persero) Tbk,Retail
+178,PD Wijaya Tbk,Supermarket
+179,Perum Maheswara Tbk,Retail
+180,PD Halimah Lestari,Supermarket
+181,PT Maryati Tbk,Retail
+182,UD Wibowo (Persero) Tbk,Supermarket
+183,CV Mayasari (Persero) Tbk,Supermarket
+184,CV Napitupulu Puspita Tbk,Supermarket
+185,PD Waskita Tbk,Retail
+186,Perum Hutapea Tbk,Distributor
+187,PT Hasanah Mangunsong,Distributor
+188,UD Firgantoro Latupono Tbk,Retail
+189,Perum Firmansyah Tbk,Distributor
+190,CV Puspita,Supermarket
+191,UD Melani Maheswara (Persero) Tbk,Distributor
+192,PT Prakasa Usada,Supermarket
+193,PD Hardiansyah,Retail
+194,PD Natsir,Supermarket
+195,PT Sitompul,Retail
+196,UD Siregar Firgantoro,Supermarket
+197,PT Hastuti Oktaviani,Retail
+198,Perum Dabukke Tbk,Supermarket
+199,CV Adriansyah Adriansyah,Distributor
+200,CV Laksmiwati Yulianti,Supermarket
+201,UD Nasyidah Rahmawati Tbk,Distributor
+202,PD Wulandari,Retail
+203,PD Habibi (Persero) Tbk,Distributor
+204,Perum Tarihoran Suryatmi,Distributor
+205,Perum Rahimah (Persero) Tbk,Retail
+206,PD Wahyuni Tbk,Retail
+207,PT Saefullah (Persero) Tbk,Supermarket
+208,CV Wibisono Hardiansyah (Persero) Tbk,Distributor
+209,CV Wulandari Saragih,Distributor
+210,PD Siregar Widodo,Supermarket
+211,PT Laksmiwati Mandasari (Persero) Tbk,Retail
+212,Perum Safitri,Supermarket
+213,PT Wahyuni,Supermarket
+214,CV Pratama Tbk,Retail
+215,Perum Hartati,Supermarket
+216,PT Sinaga Lazuardi,Retail
+217,CV Fujiati,Distributor
+218,PD Ardianto Mustofa,Distributor
+219,PD Latupono,Distributor
+220,PD Pertiwi Tbk,Supermarket
+221,PD Puspasari Rahimah,Supermarket
+222,UD Jailani Sihotang,Supermarket
+223,UD Ramadan (Persero) Tbk,Retail
+224,PD Novitasari,Retail
+225,PT Narpati Hartati,Distributor
+226,Perum Sihombing Wahyuni,Distributor
+227,UD Laksita Prasetya,Distributor
+228,CV Andriani Tbk,Supermarket
+229,CV Yolanda Uwais,Retail
+230,Perum Widiastuti (Persero) Tbk,Supermarket
+231,PD Nuraini Tbk,Distributor
+232,PD Gunarto,Distributor
+233,PT Wijayanti,Distributor
+234,Perum Siregar Manullang,Distributor
+235,Perum Suwarno Pangestu,Retail
+236,UD Permata,Supermarket
+237,UD Wibowo,Supermarket
+238,PD Widiastuti Saptono (Persero) Tbk,Supermarket
+239,Perum Handayani,Distributor
+240,PT Rajata Tampubolon Tbk,Distributor
+241,UD Saptono Yuliarti,Supermarket
+242,UD Samosir Hutasoit,Distributor
+243,UD Nasyiah,Supermarket
+244,PT Situmorang Setiawan (Persero) Tbk,Distributor
+245,PT Santoso,Distributor
+246,PD Januar,Supermarket
+247,PD Novitasari (Persero) Tbk,Distributor
+248,Perum Hasanah Mulyani Tbk,Supermarket
+249,CV Waskita Tbk,Retail
+250,UD Zulkarnain (Persero) Tbk,Retail
+251,CV Hidayanto Mansur Tbk,Distributor
+252,UD Nurdiyanti Setiawan (Persero) Tbk,Distributor
+253,UD Saputra (Persero) Tbk,Supermarket
+254,PT Maryadi,Distributor
+255,CV Mahendra,Distributor
+256,PT Wasita Tarihoran,Retail
+257,UD Kusumo Putra (Persero) Tbk,Retail
+258,UD Zulkarnain Siregar,Supermarket
+259,Perum Sitompul Megantara,Retail
+260,Perum Saptono Yulianti (Persero) Tbk,Distributor
+261,Perum Wahyuni,Retail
+262,PD Laksmiwati,Distributor
+263,UD Mustofa,Retail
+264,PD Prakasa Manullang Tbk,Distributor
+265,PT Riyanti Maryadi,Distributor
+266,UD Salahudin,Distributor
+267,PT Mayasari Nuraini,Retail
+268,UD Haryanto Wibisono Tbk,Distributor
+269,PD Nugroho (Persero) Tbk,Distributor
+270,Perum Namaga Tbk,Supermarket
+271,CV Damanik Fujiati,Retail
+272,PT Sihotang Novitasari (Persero) Tbk,Supermarket
+273,Perum Permadi Mahendra Tbk,Supermarket
+274,PD Sitompul Hardiansyah,Retail
+275,PT Suwarno Suwarno (Persero) Tbk,Supermarket
+276,Perum Utami Gunarto,Distributor
+277,CV Novitasari Lazuardi (Persero) Tbk,Supermarket
+278,PD Maryadi (Persero) Tbk,Supermarket
+279,UD Aryani (Persero) Tbk,Retail
+280,PD Puspita (Persero) Tbk,Retail
+281,CV Nugroho (Persero) Tbk,Supermarket
+282,Perum Wibowo Aryani Tbk,Distributor
+283,CV Gunarto Tbk,Retail
+284,PD Mulyani Wulandari Tbk,Supermarket
+285,PD Jailani (Persero) Tbk,Distributor
+286,PD Nasyidah (Persero) Tbk,Distributor
+287,CV Nashiruddin,Distributor
+288,PT Winarsih (Persero) Tbk,Distributor
+289,UD Rajata,Distributor
+290,PD Pradipta Firgantoro (Persero) Tbk,Supermarket
+291,PD Riyanti Tbk,Retail
+292,PD Suartini Puspita Tbk,Retail
+293,CV Kurniawan,Retail
+294,Perum Nasyidah Wibowo Tbk,Retail
+295,CV Suryono,Supermarket
+296,UD Maheswara,Retail
+297,Perum Sihotang,Distributor
+298,PD Pangestu Anggriawan,Supermarket
+299,UD Uwais Prabowo (Persero) Tbk,Supermarket
+300,PT Ardianto Tbk,Retail
+301,CV Wibowo Oktaviani (Persero) Tbk,Supermarket
+302,PT Iswahyudi Melani,Retail
+303,PD Kusumo Andriani Tbk,Retail
+304,UD Nuraini (Persero) Tbk,Supermarket
+305,PT Saefullah (Persero) Tbk,Supermarket
+306,Perum Pudjiastuti Maheswara (Persero) Tbk,Distributor
+307,PD Ramadan Mardhiyah,Distributor
+308,PD Jailani Simanjuntak (Persero) Tbk,Supermarket
+309,PD Hutapea,Supermarket
+310,CV Budiyanto,Supermarket
+311,Perum Hidayanto Gunarto,Retail
+312,Perum Wibowo Tbk,Retail
+313,Perum Hardiansyah (Persero) Tbk,Supermarket
+314,CV Habibi,Retail
+315,PD Wastuti Widodo,Distributor
+316,PT Sinaga Oktaviani (Persero) Tbk,Supermarket
+317,PD Maheswara (Persero) Tbk,Distributor
+318,Perum Maryati Mansur,Retail
+319,CV Anggraini,Distributor
+320,UD Nasyiah Damanik,Retail
+321,UD Lazuardi Permata,Distributor
+322,CV Iswahyudi,Retail
+323,Perum Hariyah Tbk,Supermarket
+324,UD Namaga (Persero) Tbk,Distributor
+325,Perum Agustina,Retail
+326,PD Yuliarti Tbk,Supermarket
+327,CV Mangunsong Hidayanto Tbk,Retail
+328,Perum Hutasoit Hidayanto,Distributor
+329,CV Pradana,Retail
+330,PD Mustofa Anggriawan,Distributor
+331,PD Iswahyudi,Distributor
+332,CV Astuti,Retail
+333,Perum Marpaung (Persero) Tbk,Supermarket
+334,CV Narpati Mardhiyah,Supermarket
+335,UD Marbun,Distributor
+336,CV Utami Lestari (Persero) Tbk,Distributor
+337,UD Novitasari,Distributor
+338,UD Budiman,Retail
+339,CV Pradipta Tbk,Retail
+340,PT Kuswoyo Lestari (Persero) Tbk,Retail
+341,PD Marpaung Mustofa,Distributor
+342,Perum Purnawati Sihombing,Retail
+343,CV Anggriawan Tbk,Supermarket
+344,Perum Puspita,Distributor
+345,PT Mardhiyah,Retail
+346,PT Winarno Utami,Retail
+347,PD Habibi Kuswandari Tbk,Distributor
+348,UD Pratiwi,Retail
+349,PD Wibisono Fujiati Tbk,Distributor
+350,CV Saputra,Supermarket
+351,Perum Mulyani Sitompul,Supermarket
+352,UD Gunawan,Distributor
+353,CV Hastuti Firgantoro,Supermarket
+354,CV Utami Maryadi (Persero) Tbk,Supermarket
+355,PT Widiastuti (Persero) Tbk,Retail
+356,Perum Kuswandari Tbk,Distributor
+357,PT Napitupulu Farida,Retail
+358,PT Lestari Saefullah,Distributor
+359,UD Laksita Iswahyudi,Supermarket
+360,PT Aryani,Supermarket
+361,PT Lailasari Wastuti,Supermarket
+362,PD Rahmawati Purnawati,Supermarket
+363,CV Haryanto Permata (Persero) Tbk,Retail
+364,Perum Manullang Tbk,Retail
+365,CV Aryani Riyanti (Persero) Tbk,Retail
+366,Perum Dabukke Tbk,Retail
+367,Perum Hakim Natsir,Retail
+368,Perum Wibowo,Supermarket
+369,PT Putra Suartini (Persero) Tbk,Supermarket
+370,UD Najmudin Wahyuni,Distributor
+371,UD Setiawan,Distributor
+372,PT Mustofa Tbk,Distributor
+373,UD Iswahyudi Nasyiah,Distributor
+374,UD Hutapea Sinaga Tbk,Supermarket
+375,CV Prasasta (Persero) Tbk,Retail
+376,PD Pradipta,Distributor
+377,CV Maryadi Sitorus (Persero) Tbk,Supermarket
+378,CV Hariyah,Retail
+379,UD Marbun (Persero) Tbk,Distributor
+380,UD Najmudin (Persero) Tbk,Retail
+381,PD Mustofa Tbk,Retail
+382,PD Hassanah Rahimah (Persero) Tbk,Distributor
+383,CV Farida,Distributor
+384,CV Rahmawati Tbk,Distributor
+385,CV Simbolon Saptono (Persero) Tbk,Retail
+386,Perum Oktaviani Yuliarti,Retail
+387,PT Prakasa Haryanti Tbk,Retail
+388,UD Maheswara Setiawan (Persero) Tbk,Supermarket
+389,UD Prakasa Tbk,Retail
+390,Perum Wahyudin (Persero) Tbk,Retail
+391,CV Wastuti,Supermarket
+392,PD Yulianti Januar,Retail
+393,CV Dongoran Saputra (Persero) Tbk,Retail
+394,PD Prasasta Najmudin,Supermarket
+395,PD Waskita Pudjiastuti (Persero) Tbk,Supermarket
+396,Perum Habibi Kuswandari Tbk,Distributor
+397,CV Zulaika Tbk,Supermarket
+398,PD Tarihoran,Retail
+399,UD Pratiwi Irawan,Distributor
+400,Perum Tarihoran Sihotang,Retail
+401,Perum Samosir,Retail
+402,PT Wibisono,Distributor
+403,Perum Handayani Hutagalung (Persero) Tbk,Distributor
+404,CV Nurdiyanti Marpaung,Supermarket
+405,CV Maryati Tbk,Distributor
+406,PD Aryani Saragih (Persero) Tbk,Supermarket
+407,UD Pranowo Pradana Tbk,Supermarket
+408,Perum Safitri Mandasari,Distributor
+409,PT Sihombing Halimah (Persero) Tbk,Distributor
+410,UD Laksita Anggraini,Retail
+411,Perum Permata Permata,Supermarket
+412,Perum Rajata Tbk,Retail
+413,PT Hakim,Supermarket
+414,Perum Saefullah Siregar,Distributor
+415,CV Pratama Tbk,Supermarket
+416,UD Wulandari,Retail
+417,PT Lailasari,Distributor
+418,PD Laksmiwati Zulaika,Retail
+419,PT Napitupulu Nasyidah (Persero) Tbk,Distributor
+420,UD Kuswandari Tbk,Supermarket
+421,PT Sihombing Purnawati Tbk,Retail
+422,PT Haryanti,Supermarket
+423,PD Yulianti Wasita Tbk,Distributor
+424,PD Halimah Wulandari (Persero) Tbk,Supermarket
+425,PT Saefullah Sirait Tbk,Distributor
+426,UD Pertiwi (Persero) Tbk,Distributor
+427,CV Mustofa,Distributor
+428,PD Hidayanto (Persero) Tbk,Distributor
+429,Perum Mardhiyah Kusmawati (Persero) Tbk,Retail
+430,UD Nasyidah Sitompul (Persero) Tbk,Supermarket
+431,CV Iswahyudi,Supermarket
+432,Perum Rajata (Persero) Tbk,Supermarket
+433,CV Novitasari,Distributor
+434,Perum Purnawati Narpati Tbk,Supermarket
+435,UD Astuti Andriani,Distributor
+436,PD Hardiansyah (Persero) Tbk,Supermarket
+437,Perum Mansur Mangunsong,Supermarket
+438,PT Rahmawati,Retail
+439,CV Pranowo Susanti,Supermarket
+440,PD Astuti (Persero) Tbk,Distributor
+441,UD Uwais Tbk,Supermarket
+442,PT Mardhiyah (Persero) Tbk,Distributor
+443,Perum Januar Tbk,Supermarket
+444,PD Suryono Tbk,Retail
+445,CV Novitasari,Supermarket
+446,UD Narpati (Persero) Tbk,Supermarket
+447,CV Namaga,Retail
+448,Perum Marpaung Uyainah,Retail
+449,CV Sitorus Wasita (Persero) Tbk,Supermarket
+450,PD Hariyah Januar,Distributor
+451,PD Wahyudin Hariyah (Persero) Tbk,Distributor
+452,PT Farida Suryono (Persero) Tbk,Distributor
+453,PT Rahayu,Supermarket
+454,PT Hasanah Zulkarnain Tbk,Supermarket
+455,PT Sirait (Persero) Tbk,Distributor
+456,PD Utami Tbk,Supermarket
+457,CV Prasasta (Persero) Tbk,Retail
+458,CV Pradana (Persero) Tbk,Retail
+459,UD Pudjiastuti Nashiruddin (Persero) Tbk,Supermarket
+460,CV Rahmawati Tbk,Distributor
+461,PD Yuliarti (Persero) Tbk,Retail
+462,Perum Pudjiastuti Tbk,Distributor
+463,PT Rahmawati Tbk,Supermarket
+464,PD Prasetyo Gunarto,Supermarket
+465,CV Astuti Widiastuti (Persero) Tbk,Distributor
+466,Perum Sirait Waskita,Distributor
+467,PT Hidayanto,Supermarket
+468,CV Permata (Persero) Tbk,Retail
+469,PT Situmorang Firmansyah Tbk,Retail
+470,PT Maryati Waluyo,Supermarket
+471,PT Megantara Adriansyah,Retail
+472,UD Hakim Aryani (Persero) Tbk,Retail
+473,UD Haryanto Nainggolan (Persero) Tbk,Supermarket
+474,UD Maryati Permadi,Distributor
+475,CV Pertiwi Manullang,Retail
+476,UD Sihombing Rahayu,Retail
+477,UD Lestari Tbk,Distributor
+478,PD Puspasari,Distributor
+479,CV Andriani Pertiwi Tbk,Distributor
+480,UD Sinaga Pradana,Distributor
+481,Perum Dongoran Haryanti,Retail
+482,UD Mansur,Distributor
+483,CV Hariyah Tbk,Retail
+484,PD Suryatmi,Retail
+485,Perum Hartati Mandala,Supermarket
+486,UD Sihotang Tbk,Retail
+487,PD Dabukke,Supermarket
+488,UD Nashiruddin Tbk,Supermarket
+489,PT Kusmawati (Persero) Tbk,Supermarket
+490,PD Rahayu,Distributor
+491,PD Wahyuni,Supermarket
+492,PT Mardhiyah Manullang Tbk,Retail
+493,PD Laksita,Retail
+494,Perum Puspita Saptono Tbk,Distributor
+495,UD Putra (Persero) Tbk,Retail
+496,PD Irawan Tbk,Retail
+497,PT Samosir Laksmiwati,Retail
+498,UD Mardhiyah Setiawan,Retail
+499,Perum Mardhiyah Astuti,Supermarket
+500,PD Hakim Yolanda,Distributor
+501,CV Safitri Aryani Tbk,Retail
+502,PT Pertiwi Tbk,Retail
+503,PT Susanti Suwarno (Persero) Tbk,Supermarket
+504,UD Adriansyah,Supermarket
+505,CV Waskita Tbk,Distributor
+506,Perum Mansur Tbk,Retail
+507,UD Nugroho Prayoga,Retail
+508,Perum Uyainah (Persero) Tbk,Supermarket
+509,PT Maryati Rahayu (Persero) Tbk,Distributor
+510,CV Saputra,Supermarket
+511,Perum Najmudin,Retail
+512,Perum Natsir Mahendra Tbk,Distributor
+513,PT Wacana Prayoga,Supermarket
+514,UD Zulkarnain Manullang,Supermarket
+515,CV Pratiwi Utami,Retail
+516,Perum Susanti (Persero) Tbk,Retail
+517,UD Budiman (Persero) Tbk,Retail
+518,PD Suryatmi (Persero) Tbk,Retail
+519,CV Wijaya Tbk,Distributor
+520,CV Winarsih Haryanti (Persero) Tbk,Retail
+521,Perum Saragih Samosir,Retail
+522,PD Rahayu,Supermarket
+523,UD Ardianto Megantara,Retail
+524,CV Budiman Tbk,Retail
+525,PT Nababan Safitri,Distributor
+526,CV Agustina Widiastuti (Persero) Tbk,Distributor
+527,PT Rajasa,Retail
+528,Perum Prastuti (Persero) Tbk,Supermarket
+529,PT Pertiwi Widiastuti Tbk,Retail
+530,CV Purnawati,Retail
+531,PD Pradipta,Supermarket
+532,PD Sihombing,Distributor
+533,Perum Firmansyah Situmorang,Supermarket
+534,Perum Maryadi Maulana,Retail
+535,Perum Maheswara (Persero) Tbk,Supermarket
+536,UD Manullang Tbk,Retail
+537,Perum Prasasta Tbk,Retail
+538,Perum Wastuti Hasanah,Supermarket
+539,Perum Mansur,Retail
+540,Perum Melani (Persero) Tbk,Supermarket
+541,Perum Saragih Wijayanti Tbk,Distributor
+542,PT Uyainah Farida,Supermarket
+543,CV Natsir,Retail
+544,CV Saputra,Retail
+545,PT Waskita Utama,Retail
+546,PD Utami (Persero) Tbk,Distributor
+547,PT Budiyanto,Distributor
+548,PT Sihombing (Persero) Tbk,Supermarket
+549,PD Situmorang Siregar,Distributor
+550,PD Sitorus,Retail
+551,Perum Salahudin Rahimah,Retail
+552,PD Waskita (Persero) Tbk,Retail
+553,CV Haryanto,Supermarket
+554,PT Sitompul Damanik (Persero) Tbk,Supermarket
+555,Perum Nasyidah Napitupulu Tbk,Supermarket
+556,UD Mayasari,Supermarket
+557,UD Zulaika Tbk,Supermarket
+558,CV Saefullah,Supermarket
+559,UD Prabowo Oktaviani,Supermarket
+560,CV Firgantoro Samosir,Distributor
+561,Perum Hardiansyah Yuliarti,Distributor
+562,PT Pradana Sihotang (Persero) Tbk,Retail
+563,PT Prastuti,Supermarket
+564,Perum Fujiati,Supermarket
+565,CV Tamba Pudjiastuti,Retail
+566,CV Marpaung Nasyiah,Supermarket
+567,Perum Gunawan Ardianto,Distributor
+568,UD Habibi Marbun,Supermarket
+569,CV Saptono Saptono (Persero) Tbk,Retail
+570,Perum Palastri Kurniawan Tbk,Distributor
+571,UD Mandala Tbk,Distributor
+572,PT Damanik Hariyah,Supermarket
+573,PD Siregar Pradana Tbk,Supermarket
+574,PT Sudiati Situmorang Tbk,Retail
+575,PD Sinaga,Distributor
+576,PT Farida,Supermarket
+577,PT Kusumo (Persero) Tbk,Distributor
+578,Perum Anggriawan Mulyani Tbk,Distributor
+579,PT Purnawati,Supermarket
+580,Perum Maheswara Saputra,Distributor
+581,PD Gunarto Prasetyo Tbk,Retail
+582,PD Kuswoyo,Supermarket
+583,CV Wacana,Retail
+584,UD Najmudin Lestari (Persero) Tbk,Supermarket
+585,PD Budiman Tbk,Supermarket
+586,PD Puspasari Tbk,Retail
+587,PT Suwarno Tbk,Distributor
+588,CV Marpaung,Distributor
+589,Perum Pangestu,Supermarket
+590,CV Kusumo Widiastuti,Retail
+591,Perum Wahyuni Mandasari,Supermarket
+592,PT Laksita,Distributor
+593,PD Astuti,Supermarket
+594,PD Januar (Persero) Tbk,Distributor
+595,CV Anggraini,Distributor
+596,CV Wasita Wahyuni Tbk,Distributor
+597,CV Megantara,Distributor
+598,CV Tarihoran,Retail
+599,Perum Haryanto Dabukke (Persero) Tbk,Retail
+600,CV Hariyah (Persero) Tbk,Retail
+601,UD Putra Situmorang,Distributor
+602,PD Riyanti,Distributor
+603,CV Kusumo Tarihoran,Retail
+604,CV Prayoga,Retail
+605,UD Anggriawan Tbk,Retail
+606,UD Irawan (Persero) Tbk,Retail
+607,Perum Widiastuti Sitompul (Persero) Tbk,Distributor
+608,Perum Natsir Rajata,Distributor
+609,CV Simbolon Wijayanti,Distributor
+610,UD Purnawati,Distributor
+611,CV Wijaya Wahyudin Tbk,Supermarket
+612,PD Nababan Farida Tbk,Supermarket
+613,PD Winarsih Permata Tbk,Supermarket
+614,CV Utami (Persero) Tbk,Retail
+615,PT Budiman Budiyanto,Distributor
+616,UD Waluyo Maheswara Tbk,Distributor
+617,UD Wahyuni Nashiruddin,Supermarket
+618,UD Manullang Tbk,Distributor
+619,PD Rajata Januar,Retail
+620,UD Latupono (Persero) Tbk,Supermarket
+621,PT Widiastuti Utami,Retail
+622,PD Anggriawan,Distributor
+623,Perum Natsir Purwanti,Distributor
+624,UD Haryanti Widodo (Persero) Tbk,Retail
+625,Perum Kuswoyo (Persero) Tbk,Supermarket
+626,UD Thamrin Nuraini,Distributor
+627,CV Tampubolon (Persero) Tbk,Supermarket
+628,UD Safitri Tbk,Retail
+629,PT Santoso,Distributor
+630,CV Siregar Tbk,Retail
+631,UD Namaga Rajasa,Retail
+632,PD Rahmawati (Persero) Tbk,Distributor
+633,CV Laksita (Persero) Tbk,Distributor
+634,UD Oktaviani Namaga,Distributor
+635,CV Prabowo Santoso,Distributor
+636,CV Wahyudin Tbk,Distributor
+637,PD Maryadi Usamah,Retail
+638,Perum Prayoga Tbk,Distributor
+639,CV Suartini (Persero) Tbk,Supermarket
+640,PD Sitorus,Retail
+641,PD Dabukke Tbk,Retail
+642,CV Tamba Handayani,Supermarket
+643,PD Sirait Safitri (Persero) Tbk,Retail
+644,PD Sitorus (Persero) Tbk,Supermarket
+645,PD Fujiati,Retail
+646,Perum Wastuti Tbk,Supermarket
+647,PD Latupono,Distributor
+648,PD Wibisono (Persero) Tbk,Supermarket
+649,CV Nasyidah,Supermarket
+650,Perum Habibi (Persero) Tbk,Retail
+651,UD Waluyo Agustina,Supermarket
+652,PD Dabukke (Persero) Tbk,Supermarket
+653,UD Maryadi Tbk,Supermarket
+654,PD Sihotang Firgantoro (Persero) Tbk,Retail
+655,UD Pratama (Persero) Tbk,Distributor
+656,UD Fujiati Prabowo Tbk,Retail
+657,UD Wastuti (Persero) Tbk,Supermarket
+658,PT Budiyanto Zulkarnain,Retail
+659,Perum Wulandari Pradipta (Persero) Tbk,Supermarket
+660,CV Pratiwi,Retail
+661,CV Riyanti,Supermarket
+662,CV Wibisono Yuliarti Tbk,Retail
+663,PD Siregar,Distributor
+664,PT Manullang,Distributor
+665,PD Najmudin Siregar Tbk,Retail
+666,UD Mulyani,Supermarket
+667,PD Haryanto Budiyanto (Persero) Tbk,Distributor
+668,PT Rahayu Susanti,Distributor
+669,UD Prabowo (Persero) Tbk,Supermarket
+670,PT Iswahyudi,Retail
+671,PD Nurdiyanti,Retail
+672,UD Wibisono,Retail
+673,CV Mahendra Laksmiwati Tbk,Retail
+674,Perum Yulianti Suryatmi Tbk,Distributor
+675,Perum Anggraini Sudiati,Supermarket
+676,PT Prasetya Tbk,Retail
+677,PD Hakim Susanti (Persero) Tbk,Distributor
+678,UD Dabukke,Distributor
+679,PD Sitompul Marpaung,Distributor
+680,PD Wibisono Tbk,Supermarket
+681,PD Wijaya Hutapea,Retail
+682,UD Kuswoyo Saefullah,Retail
+683,CV Mayasari Astuti,Distributor
+684,CV Sitompul Wasita Tbk,Distributor
+685,Perum Sinaga Hariyah Tbk,Distributor
+686,Perum Wijaya (Persero) Tbk,Distributor
+687,Perum Sudiati Wasita Tbk,Distributor
+688,PD Suryono Tbk,Distributor
+689,CV Fujiati Nainggolan,Retail
+690,UD Usada Mandasari (Persero) Tbk,Distributor
+691,PD Mulyani Pradana (Persero) Tbk,Retail
+692,PT Hassanah,Supermarket
+693,PD Nasyidah,Supermarket
+694,PD Zulkarnain Zulkarnain,Retail
+695,UD Nainggolan Mulyani (Persero) Tbk,Distributor
+696,Perum Firgantoro Nasyidah Tbk,Distributor
+697,PT Yuliarti Hutagalung,Retail
+698,PT Uyainah Purwanti (Persero) Tbk,Retail
+699,Perum Hasanah Habibi,Retail
+700,PD Pertiwi Permadi Tbk,Distributor
+701,CV Farida Maheswara Tbk,Supermarket
+702,PT Puspasari,Retail
+703,UD Setiawan (Persero) Tbk,Retail
+704,PD Suryono Wijayanti,Retail
+705,UD Astuti Puspita,Supermarket
+706,UD Megantara Napitupulu,Distributor
+707,CV Firmansyah Nashiruddin,Distributor
+708,PD Puspita Permadi (Persero) Tbk,Distributor
+709,Perum Setiawan Puspita,Distributor
+710,CV Thamrin Tbk,Distributor
+711,CV Rahimah,Distributor
+712,CV Hassanah Pradipta Tbk,Distributor
+713,CV Yuniar Melani,Distributor
+714,Perum Suwarno,Supermarket
+715,PD Pudjiastuti,Distributor
+716,CV Maheswara,Distributor
+717,PT Sitorus (Persero) Tbk,Supermarket
+718,UD Setiawan,Supermarket
+719,Perum Halimah Tbk,Supermarket
+720,Perum Purnawati,Supermarket
+721,CV Sihotang (Persero) Tbk,Supermarket
+722,CV Wastuti Uwais Tbk,Retail
+723,Perum Sihotang Astuti,Retail
+724,PD Permadi Siregar (Persero) Tbk,Supermarket
+725,CV Astuti Saragih,Retail
+726,PD Purwanti Gunawan,Supermarket
+727,UD Saragih (Persero) Tbk,Supermarket
+728,PT Nuraini Aryani,Distributor
+729,Perum Simbolon Napitupulu,Supermarket
+730,PD Mardhiyah Tbk,Supermarket
+731,PD Purwanti Prabowo,Supermarket
+732,PT Najmudin Gunawan (Persero) Tbk,Distributor
+733,UD Januar Setiawan Tbk,Retail
+734,Perum Halim (Persero) Tbk,Retail
+735,PT Januar Salahudin (Persero) Tbk,Distributor
+736,CV Namaga Pradipta,Supermarket
+737,UD Tarihoran Mansur (Persero) Tbk,Retail
+738,PD Saptono Tbk,Retail
+739,CV Prasetya Riyanti (Persero) Tbk,Supermarket
+740,CV Hasanah,Supermarket
+741,CV Ardianto Yulianti,Supermarket
+742,CV Nainggolan (Persero) Tbk,Supermarket
+743,CV Nugroho,Supermarket
+744,Perum Rahimah,Retail
+745,CV Haryanti Mardhiyah,Retail
+746,CV Mandala,Distributor
+747,PD Yolanda,Supermarket
+748,UD Habibi Widodo,Distributor
+749,UD Manullang (Persero) Tbk,Retail
+750,PD Saputra Sudiati,Retail
+751,Perum Rajasa Tamba,Distributor
+752,UD Najmudin,Supermarket
+753,CV Wibisono,Distributor
+754,PT Laksita Jailani,Retail
+755,Perum Purwanti (Persero) Tbk,Supermarket
+756,UD Mustofa Uyainah Tbk,Retail
+757,CV Saefullah,Retail
+758,CV Purwanti Suryatmi (Persero) Tbk,Supermarket
+759,PT Waskita Permata,Supermarket
+760,CV Prakasa Sitompul,Distributor
+761,Perum Narpati (Persero) Tbk,Distributor
+762,CV Sirait Tbk,Retail
+763,PD Suwarno,Distributor
+764,CV Fujiati Hutapea,Retail
+765,PT Waskita Permadi,Supermarket
+766,PD Firgantoro,Distributor
+767,PT Rahayu (Persero) Tbk,Distributor
+768,CV Habibi Kusmawati,Retail
+769,PD Susanti Marpaung Tbk,Supermarket
+770,PD Wijayanti Permata,Retail
+771,PT Prastuti,Retail
+772,CV Zulaika (Persero) Tbk,Supermarket
+773,PT Mansur Tbk,Distributor
+774,UD Pudjiastuti,Distributor
+775,CV Saragih Rajata,Supermarket
+776,UD Maheswara Manullang Tbk,Supermarket
+777,PT Haryanti Haryanti,Supermarket
+778,PD Hasanah Nashiruddin (Persero) Tbk,Retail
+779,PT Prakasa Wibowo Tbk,Distributor
+780,PD Waskita Lailasari (Persero) Tbk,Distributor
+781,CV Marpaung Tbk,Distributor
+782,Perum Laksmiwati Mandasari,Supermarket
+783,PD Megantara Tampubolon,Retail
+784,Perum Siregar Pratiwi,Supermarket
+785,UD Pranowo Tampubolon Tbk,Distributor
+786,UD Salahudin Rahimah (Persero) Tbk,Supermarket
+787,PD Saefullah Mulyani Tbk,Distributor
+788,PD Lestari (Persero) Tbk,Distributor
+789,PT Maryati Lestari,Distributor
+790,PT Widiastuti,Supermarket
+791,PT Waskita,Distributor
+792,UD Palastri Napitupulu,Supermarket
+793,CV Haryanto Suryono,Supermarket
+794,UD Mahendra,Supermarket
+795,Perum Uyainah Napitupulu,Supermarket
+796,UD Suwarno Tampubolon (Persero) Tbk,Supermarket
+797,Perum Puspasari Pratiwi (Persero) Tbk,Supermarket
+798,Perum Yuniar Haryanti Tbk,Supermarket
+799,CV Haryanto Nuraini (Persero) Tbk,Distributor
+800,UD Puspita Januar,Distributor
+801,PT Usamah Santoso,Retail
+802,UD Januar Prastuti,Retail
+803,PD Safitri Megantara,Distributor
+804,CV Hidayanto,Distributor
+805,Perum Lestari Hassanah,Supermarket
+806,PT Hartati Latupono,Distributor
+807,UD Prabowo Hariyah,Supermarket
+808,PD Widiastuti (Persero) Tbk,Distributor
+809,Perum Hutapea Tbk,Supermarket
+810,PT Prabowo,Supermarket
+811,PT Laksmiwati (Persero) Tbk,Distributor
+812,CV Wibisono Napitupulu,Supermarket
+813,PD Yuniar,Supermarket
+814,PD Saefullah Novitasari,Supermarket
+815,UD Halim Pratiwi (Persero) Tbk,Distributor
+816,PT Zulkarnain Simbolon,Supermarket
+817,Perum Samosir Sitompul,Distributor
+818,UD Prastuti Winarsih (Persero) Tbk,Supermarket
+819,PD Lailasari Firgantoro (Persero) Tbk,Distributor
+820,CV Rahayu,Distributor
+821,PD Nurdiyanti Kuswandari Tbk,Retail
+822,PD Ramadan,Supermarket
+823,CV Hutasoit (Persero) Tbk,Supermarket
+824,Perum Mahendra Zulaika (Persero) Tbk,Retail
+825,Perum Usamah Utami Tbk,Distributor
+826,CV Prasetyo Namaga,Distributor
+827,CV Prayoga Rajata (Persero) Tbk,Retail
+828,Perum Permadi Tbk,Supermarket
+829,PD Nashiruddin Prastuti,Distributor
+830,UD Saptono (Persero) Tbk,Distributor
+831,Perum Megantara Samosir,Supermarket
+832,UD Prasetya,Supermarket
+833,CV Haryanti Ardianto (Persero) Tbk,Distributor
+834,PD Narpati,Distributor
+835,PD Salahudin Tamba (Persero) Tbk,Retail
+836,PD Yuliarti Halimah,Distributor
+837,Perum Situmorang (Persero) Tbk,Supermarket
+838,UD Wastuti (Persero) Tbk,Supermarket
+839,PT Tampubolon Mansur,Retail
+840,Perum Mulyani Tbk,Retail
+841,PD Namaga,Supermarket
+842,CV Lazuardi Marpaung,Retail
+843,Perum Najmudin Tbk,Retail
+844,PT Nurdiyanti Siregar,Distributor
+845,PD Januar Budiman Tbk,Distributor
+846,PT Saputra Firmansyah,Distributor
+847,UD Hidayanto Uyainah,Supermarket
+848,PD Nasyiah (Persero) Tbk,Retail
+849,PT Manullang Haryanti,Supermarket
+850,UD Farida,Supermarket
+851,PD Prakasa (Persero) Tbk,Supermarket
+852,CV Astuti Wahyuni Tbk,Supermarket
+853,PT Prastuti Prabowo Tbk,Supermarket
+854,UD Wahyuni Tbk,Distributor
+855,Perum Melani Hakim Tbk,Retail
+856,PT Tampubolon Hidayanto Tbk,Distributor
+857,UD Hutapea Jailani Tbk,Distributor
+858,CV Siregar Tarihoran,Distributor
+859,UD Pranowo,Supermarket
+860,Perum Haryanto Tbk,Supermarket
+861,UD Sudiati Haryanti,Distributor
+862,PD Situmorang,Distributor
+863,PT Mardhiyah Tbk,Distributor
+864,PT Zulkarnain Irawan,Distributor
+865,CV Thamrin Laksmiwati (Persero) Tbk,Supermarket
+866,PT Salahudin,Supermarket
+867,CV Palastri Rahayu,Retail
+868,CV Iswahyudi Kusumo,Retail
+869,UD Wastuti (Persero) Tbk,Distributor
+870,PT Winarno (Persero) Tbk,Retail
+871,PD Fujiati Prabowo,Supermarket
+872,CV Novitasari,Distributor
+873,Perum Laksita Handayani,Retail
+874,Perum Rahmawati,Retail
+875,PT Pudjiastuti,Supermarket
+876,UD Farida,Retail
+877,Perum Fujiati,Retail
+878,Perum Wacana,Distributor
+879,PD Zulaika,Retail
+880,Perum Pratama (Persero) Tbk,Distributor
+881,PT Utami Wulandari,Retail
+882,PD Susanti Yuliarti (Persero) Tbk,Supermarket
+883,Perum Prakasa Prabowo (Persero) Tbk,Supermarket
+884,PT Novitasari Padmasari,Supermarket
+885,PT Hutapea Kusmawati,Supermarket
+886,UD Wijaya (Persero) Tbk,Retail
+887,PT Wastuti Setiawan Tbk,Supermarket
+888,UD Astuti Hidayanto,Retail
+889,Perum Nasyidah Haryanto (Persero) Tbk,Retail
+890,CV Maulana Tbk,Distributor
+891,PD Prastuti Pratiwi Tbk,Retail
+892,UD Saefullah Utami Tbk,Distributor
+893,PD Hidayat,Retail
+894,PT Jailani Sitompul Tbk,Retail
+895,Perum Marpaung (Persero) Tbk,Retail
+896,UD Laksmiwati Yulianti,Retail
+897,PT Budiman Wibowo Tbk,Distributor
+898,PD Puspasari Mansur Tbk,Supermarket
+899,PT Sitompul Waluyo Tbk,Retail
+900,Perum Napitupulu,Supermarket
+901,Perum Januar,Supermarket
+902,PT Melani Ramadan Tbk,Supermarket
+903,CV Usada,Distributor
+904,Perum Anggriawan (Persero) Tbk,Distributor
+905,CV Halim (Persero) Tbk,Retail
+906,CV Melani Nugroho Tbk,Supermarket
+907,UD Kuswoyo Tbk,Supermarket
+908,CV Suryatmi (Persero) Tbk,Distributor
+909,UD Prabowo,Supermarket
+910,PT Suryono,Distributor
+911,PT Siregar Wacana,Distributor
+912,CV Zulaika Halim,Retail
+913,UD Nainggolan (Persero) Tbk,Supermarket
+914,CV Dongoran,Distributor
+915,PT Mustofa Tbk,Supermarket
+916,PD Dabukke (Persero) Tbk,Retail
+917,PT Lazuardi Suryono (Persero) Tbk,Retail
+918,PD Dabukke Lestari Tbk,Distributor
+919,PD Laksmiwati Usamah,Supermarket
+920,UD Anggriawan Rahimah (Persero) Tbk,Retail
+921,PD Wibowo Latupono (Persero) Tbk,Supermarket
+922,PD Suryatmi Mulyani (Persero) Tbk,Distributor
+923,PD Gunarto Hassanah (Persero) Tbk,Supermarket
+924,Perum Hutapea (Persero) Tbk,Distributor
+925,UD Saputra Siregar Tbk,Supermarket
+926,PD Hassanah,Distributor
+927,PT Melani (Persero) Tbk,Supermarket
+928,CV Sitompul Setiawan,Distributor
+929,PD Firmansyah Sihombing Tbk,Distributor
+930,PD Mandala Iswahyudi,Retail
+931,UD Pranowo Budiyanto,Retail
+932,PT Uyainah,Supermarket
+933,PD Hassanah Situmorang (Persero) Tbk,Supermarket
+934,PD Maulana Mandala Tbk,Supermarket
+935,Perum Najmudin Tbk,Distributor
+936,Perum Dabukke Utami Tbk,Retail
+937,PT Hutasoit,Distributor
+938,CV Handayani (Persero) Tbk,Supermarket
+939,Perum Pradana Prabowo (Persero) Tbk,Retail
+940,UD Hakim Astuti,Supermarket
+941,UD Situmorang Wacana,Distributor
+942,CV Purnawati Mulyani,Supermarket
+943,CV Prasetya Suryono (Persero) Tbk,Distributor
+944,CV Namaga,Retail
+945,CV Laksmiwati,Retail
+946,PT Rahimah Sihotang,Retail
+947,UD Lazuardi Hutapea,Distributor
+948,CV Hutapea Wibowo Tbk,Supermarket
+949,CV Saputra Riyanti (Persero) Tbk,Distributor
+950,PT Pratiwi Namaga,Supermarket
+951,Perum Saragih Hidayat (Persero) Tbk,Retail
+952,UD Megantara,Supermarket
+953,UD Mansur Astuti Tbk,Retail
+954,PT Marpaung,Distributor
+955,PD Usada Rahimah,Distributor
+956,PT Pradana,Distributor
+957,Perum Purwanti Adriansyah Tbk,Supermarket
+958,CV Namaga,Supermarket
+959,UD Hasanah Riyanti,Supermarket
+960,UD Damanik Dongoran,Distributor
+961,CV Saputra Siregar (Persero) Tbk,Retail
+962,Perum Dongoran Widodo (Persero) Tbk,Retail
+963,UD Widodo Namaga Tbk,Supermarket
+964,PT Wibisono Astuti,Distributor
+965,PT Astuti,Distributor
+966,PT Handayani Riyanti,Retail
+967,CV Waluyo Hidayat,Retail
+968,PD Halimah Wacana,Distributor
+969,PT Puspita Tbk,Supermarket
+970,PT Anggriawan Nuraini (Persero) Tbk,Distributor
+971,CV Kuswandari Mangunsong,Supermarket
+972,UD Yuliarti Tbk,Distributor
+973,PD Samosir Setiawan Tbk,Distributor
+974,UD Zulaika Adriansyah Tbk,Retail
+975,PD Permadi (Persero) Tbk,Supermarket
+976,PT Hasanah,Supermarket
+977,CV Nasyiah Hartati Tbk,Distributor
+978,CV Pudjiastuti Tbk,Distributor
+979,PT Maheswara,Distributor
+980,CV Astuti Wulandari,Supermarket
+981,PT Sitompul Hutasoit Tbk,Retail
+982,Perum Mustofa Budiman Tbk,Retail
+983,UD Wijaya Nasyidah,Retail
+984,PT Samosir Waskita,Distributor
+985,PD Agustina Namaga (Persero) Tbk,Supermarket
+986,CV Tampubolon (Persero) Tbk,Retail
+987,CV Sudiati,Supermarket
+988,CV Damanik Permata (Persero) Tbk,Distributor
+989,UD Prastuti,Supermarket
+990,CV Oktaviani Agustina Tbk,Distributor
+991,PD Nuraini Damanik,Distributor
+992,UD Fujiati Tbk,Distributor
+993,UD Mandasari Yolanda Tbk,Retail
+994,Perum Sihombing Situmorang,Distributor
+995,CV Prasetya Hidayanto (Persero) Tbk,Distributor
+996,PT Puspasari (Persero) Tbk,Supermarket
+997,UD Napitupulu Nugroho,Distributor
+998,UD Zulaika Napitupulu Tbk,Distributor
+999,UD Anggraini Widodo,Distributor
+1000,PT Nainggolan,Distributor
