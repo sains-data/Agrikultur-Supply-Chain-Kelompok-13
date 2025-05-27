@@ -1,65 +1,27 @@
 <img src="./banner.png" width="100%">
 
 # Agriculture Supply Chain Data Warehouse
+Industri agrikultur di Indonesia memiliki potensi besar untuk berkembang melalui penerapan teknologi digital. Salah satu pendekatan strategis yang sedang berkembang adalah pengembangan bisnis agrikultur berbasis platform digital, yang berupaya mengatasi permasalahan klasik seperti rantai distribusi yang panjang, keterbatasan akses pasar bagi petani, serta minimnya data terstruktur untuk mendukung pengambilan keputusan operasional dan strategis (Putri & Sembiring, 2022; Kementerian Pertanian RI, 2021).
+
+
+# Supply Chain Concept
 
 <img src="https://cdn.agclassroom.org/media/uploads/LP838/Food-Supply-Chain.png"/>
 
-## Overview
-This repository contains a comprehensive data warehouse solution for managing and analyzing agricultural supply chain data. The project aims to provide insights into the entire agricultural supply chain process, from production to distribution, enabling better decision-making and optimization of agricultural operations.
 
-## Features
-- **Data Integration**: Consolidates data from multiple sources in the agricultural supply chain
-- **Data Modeling**: Implements a robust dimensional model for efficient querying and analysis
-- **ETL Processes**: Automated data extraction, transformation, and loading procedures
-- **Analytics Ready**: Structured data warehouse optimized for business intelligence and analytics
+ERD
 
-## Getting Started
+<img src="./assets/erd.png" width="100">
 
-### Prerequisites
-- Python 3.x
-- PostgreSQL (or your preferred database system)
-- Required Python packages (listed in requirements.txt)
 
-### Installation
-1. Clone this repository
-```bash
-git clone [repository-url]
-```
+## Kelompok SupplyChain
 
-2. Install required dependencies
-```bash
-pip install -r requirements.txt
-```
+Ketua Virdio Samuel Saragih - 122450124
 
-3. Set up your database configuration in the appropriate configuration files
-
-## Data Warehouse Architecture
-The data warehouse follows a dimensional modeling approach with the following key components:
-
-- **Fact Tables**: Store measurable business events and transactions
-- **Dimension Tables**: Contain descriptive attributes for analysis
-- **Staging Area**: Temporary storage for raw data before transformation
-- **Data Marts**: Subject-specific data subsets for different business areas
-
-## Usage
-Detailed usage instructions and documentation can be found in the respective directories:
-- Check `Final/scripts/` for ETL process documentation
-- Review `Final/schema/` for database schema details
-- Explore `Mission/` directories for development phase documentation
-
-## Contributing
-This project is maintained by Kelompok 13. For any contributions or suggestions, please follow these steps:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details
-
-## Contact
-For any questions or support, please contact the project maintainers.
-
----
-*Last updated: [Current Date]*
+| Nama | NIM |
+|------|-----|
+| Josua Alfa Viando Panggabean | 121450061 |
+| Try Yani Rizki Nur Rohmah | 122450020 |
+| Priska Silvia Ferantiana | 122450053 |
+| Dearni Monica Br Manik | 122450075 |
+| Ferdy Kevin Naibaho | 122450107 |
