@@ -9,9 +9,28 @@ Industri agrikultur di Indonesia memiliki potensi besar untuk berkembang melalui
 <img src="https://cdn.agclassroom.org/media/uploads/LP838/Food-Supply-Chain.png"/>
 
 
-ERD
+# ERD (Entity Relational Diagram)
 
-<img src="./assets/erd.png" width="100">
+<img src="./assets/erd.png" width="500"/>
+
+# Database Name : Agri
+
+# Dimensional Table
+
+| Table Name           | Description                            | Key                 | Selected Columns                                                                      |
+| -------------------- | -------------------------------------- | ------------------- | ------------------------------------------------------------------------------------- |
+| `Dim_Time`           | Time dimension table                   | `time_id`           | `date`, `month`, `kuarter`, `years`                                                   |
+| `Dim_Product`        | Product dimension table                | `product_id`        | `product_name`, `category`, `shelf_life_days`                                         |
+| `Dim_Farmer`         | Farmer dimension table                 | `farmer_id`         | `name`, `location`, `farm_size_ha`                                                    |
+| `Dim_StockWarehouse` | Warehouse dimension table              | `warehouse_id`      | `location`, `capacity_kg`                                                             |
+| `Dim_RetailPartner`  | Retail partner (buyer) dimension table | `retail_partner_id` | `name`, `type`                                                                        |
+| `Dim_Logistics`      | Shipment and logistics details         | `shipment_id`       | `date`, `origin`, `destination`, `distance_km`, `duration_minutes`, `delivery_status` |
+
+
+# Fact Table
+| Table Name         | Description                                   | Primary Key      | Foreign Keys                                                                                                                                                                                                       | Measures                                       |
+| ------------------ | --------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| `Fact_Transaction` | Core fact table for agricultural transactions | `transaction_id` | `time_id` → `Dim_Time`,<br>`product_id` → `Dim_Product`,<br>`farmer_id` → `Dim_Farmer`,<br>`warehouse_id` → `Dim_StockWarehouse`,<br>`retail_partner_id` → `Dim_RetailPartner`,<br>`shipment_id` → `Dim_Logistics` | `quantity_kg`, `price_per_kg`, `shipping_cost` |
 
 
 ## Kelompok SupplyChain
